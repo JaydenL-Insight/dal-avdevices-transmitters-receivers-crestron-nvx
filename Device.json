@@ -1,0 +1,3269 @@
+{
+  "Device": {
+    "AudioVideoInputOutput": {
+      "Inputs": [
+        {
+          "Name": "input0",
+          "Ports": [
+            {
+              "AspectRatio": "No Signal",
+              "Audio": {
+                "AudioTypeSelect": 1,
+                "Digital": {
+                  "Channels": 0,
+                  "Format": "NoAudio"
+                }
+              },
+              "ColorDepth": 0,
+              "ColorSpace": "Unknown",
+              "Edid": {
+                "CurrentEdid": "4K60 444 2CH Non-HDR",
+                "EdidList": [
+                  {
+                    "Name": "Copy Output",
+                    "Type": "Auto"
+                  },
+                  {
+                    "Name": "01 DM default",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Consumer 1080p60 HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Consumer 720p60 HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Consumer 1080p60 3D HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Laptop 16x9 1080p60 2ch",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Laptop 16x10 1920x1200 2ch",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Laptop 16x10 1280x800 2ch",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Laptop widescreen 2ch",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Consumer 1080p50 HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Consumer 720p50 HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Consumer 1080p50 3D HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Laptop 16x9 1080p50 2ch",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "DM Default 4k 30Hz 2ch",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Consumer 4k 30Hz 3D HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "Consumer 4k 25Hz 3D HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "DM Default 4k 60Hz 2ch",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "DM Default 4k 60Hz HBR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "4K60 444 2CH Non-HDR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "4K60 444 2CH HDR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "4K60 444 HBR HDR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "4K60 444 2CH HDR DCI",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "4K60 444 HBR Non-HDR",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "4K60 444 2CH HDR10+",
+                    "Type": "System"
+                  },
+                  {
+                    "Name": "4K60 444 HBR HDR10+",
+                    "Type": "System"
+                  }
+                ]
+              },
+              "FramesPerSecond": 0,
+              "Hdmi": {
+                "HdcpReceiverCapability": "Disabled",
+                "HdcpState": "HDCPnotRequired",
+                "IsCecErrorDetected": false,
+                "IsSourceHdcpActive": false,
+                "Name": "",
+                "ReceiveCecMessage": "",
+                "Status3D": 0,
+                "TransmitCecMessage": ""
+              },
+              "HorizontalResolution": 0,
+              "IsInterlacedDetected": false,
+              "IsSyncDetected": false,
+              "PortType": "Hdmi",
+              "Uuid": "b2f7243b-0d18-4be4-9631-608c01fe5bba",
+              "VerticalResolution": 0
+            }
+          ],
+          "Uuid": "06c80e0f-e3db-4967-8646-7033ef7f4e39",
+          "VideoPortTypeSelect": "Hdmi"
+        }
+      ],
+      "Outputs": [
+        {
+          "Name": "output0",
+          "Ports": [
+            {
+              "AspectRatio": "No Signal",
+              "AspectRatioMode": "MaintainAspectRatio",
+              "Audio": {
+                "Delay": 0,
+                "Digital": {
+                  "Channels": 0,
+                  "Format": "NoAudio"
+                },
+                "Volume": 0
+              },
+              "ColorDepth": "8-bitMode",
+              "ColorSpace": "Unknown",
+              "ColorSpaceMode": "Auto",
+              "DownstreamEdid": {
+                "ManufacturerString": "",
+                "NameString": "",
+                "PrefTimingString": "",
+                "SerialNumberString": ""
+              },
+              "FramesPerSecond": 0,
+              "Hdmi": {
+                "DisabledByHdcp": false,
+                "HdcpState": "HDCPnotRequired",
+                "HdcpTransmitterMode": "FollowInput",
+                "IsBlankingDisabled": true,
+                "IsCecInError": false,
+                "IsOutputDisabled": false,
+                "Name": "OUTPUT 1",
+                "ReceiveCecMessage": "",
+                "TransmitCecMessage": "",
+                "Transmitting": false,
+                "VideoOutputTimeoutDisabled": true
+              },
+              "HorizontalBezelCompensation": 0,
+              "HorizontalResolution": 0,
+              "IsInterlacedDetected": false,
+              "IsSinkConnected": false,
+              "MaxColorDepth": "12-bitMode",
+              "PortType": "Hdmi",
+              "Resolution": "Auto",
+              "Underscan": 0,
+              "Uuid": "acac9f5f-aecf-4927-9c28-891e8f344d45",
+              "VerticalBezelCompensation": 0,
+              "VerticalResolution": 0,
+              "VideoTimeout": 0
+            }
+          ],
+          "Uuid": "f0d02182-6aaa-4ae6-88f9-2c5405a878dd",
+          "VideoPortTypeSelect": "Hdmi"
+        }
+      ],
+      "Version": "2.0.0"
+    },
+    "Authentication": {
+      "ActiveDirectoryGroups": {},
+      "ActiveDirectoryUsers": {},
+      "AuthenticationState": {
+        "AdminPassword": "",
+        "AdminUsername": "",
+        "IsEnabled": true
+      },
+      "CurrentUser": {
+        "AccessLevel": "Administrator",
+        "IsActiveDirectoryUser": false,
+        "LocalGroups": [
+          "Administrators"
+        ],
+        "Name": "admin"
+      },
+      "IsForceAuthEnabled": false,
+      "IsUserAuthEnabled": false,
+      "LocalGroups": {
+        "Administrators": {
+          "AccessLevel": "Administrator",
+          "Name": "Administrators"
+        },
+        "Connects": {
+          "AccessLevel": "Connect",
+          "Name": "Connects"
+        },
+        "Operators": {
+          "AccessLevel": "Operator",
+          "Name": "Operators"
+        },
+        "Programmers": {
+          "AccessLevel": "Programmer",
+          "Name": "Programmers"
+        },
+        "Users": {
+          "AccessLevel": "User",
+          "Name": "Users"
+        }
+      },
+      "LocalUsers": {
+        "admin": {
+          "AccessLevel": "Administrator",
+          "LocalGroups": [
+            "Administrators"
+          ],
+          "Name": "admin"
+        }
+      },
+      "SslMode": "OFF",
+      "Version": "2.0.2"
+    },
+    "AutoUpdateMaster": {
+      "AutoUpdateSchedule": {
+        "CheckInterval": 0,
+        "DayOfWeek": "Daily",
+        "TimeOfDay": "02:30"
+      },
+      "IsCustomUrlEnabled": "",
+      "IsEnabled": true,
+      "ManifestPath": "https://crestrondevicefiles.blob.core.windows.net/nvx/DMNVX.txt",
+      "ServerCredentials": {
+        "Username": "NONE"
+      },
+      "Version": "2.1.5"
+    },
+    "AvRouting": {
+      "RouteControl": {
+        "IsChangeUsbRemoteDeviceEnabled": false,
+        "IsLayer3Enabled": true,
+        "IsSecondaryAudioFollowsVideoEnabled": false,
+        "IsUsbFollowsVideoEnabled": false
+      },
+      "Routes": [
+        {
+          "AudioSource": "",
+          "AutomaticStreamRoutingEnabled": false,
+          "Name": "Routing0",
+          "UniqueId": "b7906328-d354-45c7-b073-eb3c15e88a6a",
+          "UsbSource": "",
+          "VideoSource": ""
+        }
+      ],
+      "Version": "2.0.1"
+    },
+    "CertificateStore": {
+      "Intermediate": {
+        "Certificates": {}
+      },
+      "Machine": {
+        "Certificates": {}
+      },
+      "Root": {
+        "Certificates": {
+          "AAA Certificate Services_01": {
+            "Expiration": "Dec 31 23:59:59 2028",
+            "Name": "AAA Certificate Services",
+            "Startdate": "Jan  1 00:00:00 2004",
+            "Uuid": "01"
+          },
+          "AC RAIZ FNMT-RCM_5D938D306736C8061D1AC754846907": {
+            "Expiration": "Jan  1 00:00:00 2030",
+            "Name": "AC RAIZ FNMT-RCM",
+            "Startdate": "Oct 29 15:59:56 2008",
+            "Uuid": "5D938D306736C8061D1AC754846907"
+          },
+          "ACCVRAIZ1_5EC3B7A6437FA4E0": {
+            "Expiration": "Dec 31 09:37:37 2030",
+            "Name": "ACCVRAIZ1",
+            "Startdate": "May  5 09:37:37 2011",
+            "Uuid": "5EC3B7A6437FA4E0"
+          },
+          "Actalis Authentication Root CA_570A119742C4E3CC": {
+            "Expiration": "Sep 22 11:22:02 2030",
+            "Name": "Actalis Authentication Root CA",
+            "Startdate": "Sep 22 11:22:02 2011",
+            "Uuid": "570A119742C4E3CC"
+          },
+          "AffirmTrust Commercial_7777062726A9B17C": {
+            "Expiration": "Dec 31 14:06:06 2030",
+            "Name": "AffirmTrust Commercial",
+            "Startdate": "Jan 29 14:06:06 2010",
+            "Uuid": "7777062726A9B17C"
+          },
+          "AffirmTrust Networking_7C4F04391CD4992D": {
+            "Expiration": "Dec 31 14:08:24 2030",
+            "Name": "AffirmTrust Networking",
+            "Startdate": "Jan 29 14:08:24 2010",
+            "Uuid": "7C4F04391CD4992D"
+          },
+          "AffirmTrust Premium ECC_7497258AC73F7A54": {
+            "Expiration": "Dec 31 14:20:24 2040",
+            "Name": "AffirmTrust Premium ECC",
+            "Startdate": "Jan 29 14:20:24 2010",
+            "Uuid": "7497258AC73F7A54"
+          },
+          "AffirmTrust Premium_6D8C1446B1A60AEE": {
+            "Expiration": "Dec 31 14:10:36 2040",
+            "Name": "AffirmTrust Premium",
+            "Startdate": "Jan 29 14:10:36 2010",
+            "Uuid": "6D8C1446B1A60AEE"
+          },
+          "Amazon Root CA 1_066C9FCF99BF8C0A39E2F0788A43E696365BCA": {
+            "Expiration": "Jan 17 00:00:00 2038",
+            "Name": "Amazon Root CA 1",
+            "Startdate": "May 26 00:00:00 2015",
+            "Uuid": "066C9FCF99BF8C0A39E2F0788A43E696365BCA"
+          },
+          "Amazon Root CA 2_066C9FD29635869F0A0FE58678F85B26BB8A37": {
+            "Expiration": "May 26 00:00:00 2040",
+            "Name": "Amazon Root CA 2",
+            "Startdate": "May 26 00:00:00 2015",
+            "Uuid": "066C9FD29635869F0A0FE58678F85B26BB8A37"
+          },
+          "Amazon Root CA 3_066C9FD5749736663F3B0B9AD9E89E7603F24A": {
+            "Expiration": "May 26 00:00:00 2040",
+            "Name": "Amazon Root CA 3",
+            "Startdate": "May 26 00:00:00 2015",
+            "Uuid": "066C9FD5749736663F3B0B9AD9E89E7603F24A"
+          },
+          "Amazon Root CA 4_066C9FD7C1BB104C2943E5717B7B2CC81AC10E": {
+            "Expiration": "May 26 00:00:00 2040",
+            "Name": "Amazon Root CA 4",
+            "Startdate": "May 26 00:00:00 2015",
+            "Uuid": "066C9FD7C1BB104C2943E5717B7B2CC81AC10E"
+          },
+          "Atos TrustedRoot 2011_5C33CB622C5FB332": {
+            "Expiration": "Dec 31 23:59:59 2030",
+            "Name": "Atos TrustedRoot 2011",
+            "Startdate": "Jul  7 14:58:30 2011",
+            "Uuid": "5C33CB622C5FB332"
+          },
+          "Autoridad de Certificacion Firmaprofesional CIF A62634068_53EC3BEEFBB2485F": {
+            "Expiration": "Dec 31 08:38:15 2030",
+            "Name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
+            "Startdate": "May 20 08:38:15 2009",
+            "Uuid": "53EC3BEEFBB2485F"
+          },
+          "Baltimore CyberTrust Root_020000B9": {
+            "Expiration": "May 12 23:59:00 2025",
+            "Name": "Baltimore CyberTrust Root",
+            "Startdate": "May 12 18:46:00 2000",
+            "Uuid": "020000B9"
+          },
+          "Buypass Class 2 Root CA_02": {
+            "Expiration": "Oct 26 08:38:03 2040",
+            "Name": "Buypass Class 2 Root CA",
+            "Startdate": "Oct 26 08:38:03 2010",
+            "Uuid": "02"
+          },
+          "Buypass Class 3 Root CA_02": {
+            "Expiration": "Oct 26 08:28:58 2040",
+            "Name": "Buypass Class 3 Root CA",
+            "Startdate": "Oct 26 08:28:58 2010",
+            "Uuid": "02"
+          },
+          "CA Disig Root R2_92B888DBB08AC163": {
+            "Expiration": "Jul 19 09:15:30 2042",
+            "Name": "CA Disig Root R2",
+            "Startdate": "Jul 19 09:15:30 2012",
+            "Uuid": "92B888DBB08AC163"
+          },
+          "CFCA EV ROOT_184ACCD6": {
+            "Expiration": "Dec 31 03:07:01 2029",
+            "Name": "CFCA EV ROOT",
+            "Startdate": "Aug  8 03:07:01 2012",
+            "Uuid": "184ACCD6"
+          },
+          "COMODO Certification Authority_4E812D8A8265E00B02EE3E350246E53D": {
+            "Expiration": "Dec 31 23:59:59 2029",
+            "Name": "COMODO Certification Authority",
+            "Startdate": "Dec  1 00:00:00 2006",
+            "Uuid": "4E812D8A8265E00B02EE3E350246E53D"
+          },
+          "COMODO ECC Certification Authority_1F47AFAA62007050544C019E9B63992A": {
+            "Expiration": "Jan 18 23:59:59 2038",
+            "Name": "COMODO ECC Certification Authority",
+            "Startdate": "Mar  6 00:00:00 2008",
+            "Uuid": "1F47AFAA62007050544C019E9B63992A"
+          },
+          "COMODO RSA Certification Authority_4CAAF9CADB636FE01FF74ED85B03869D": {
+            "Expiration": "Jan 18 23:59:59 2038",
+            "Name": "COMODO RSA Certification Authority",
+            "Startdate": "Jan 19 00:00:00 2010",
+            "Uuid": "4CAAF9CADB636FE01FF74ED85B03869D"
+          },
+          "Certigna Root CA_CAE91B89F155030DA3E6416DC4E3A6E1": {
+            "Expiration": "Oct  1 08:32:27 2033",
+            "Name": "Certigna Root CA",
+            "Startdate": "Oct  1 08:32:27 2013",
+            "Uuid": "CAE91B89F155030DA3E6416DC4E3A6E1"
+          },
+          "Certigna_FEDCE3010FC948FF": {
+            "Expiration": "Jun 29 15:13:05 2027",
+            "Name": "Certigna",
+            "Startdate": "Jun 29 15:13:05 2007",
+            "Uuid": "FEDCE3010FC948FF"
+          },
+          "Certum Trusted Network CA 2_21D6D04A4F250FC93237FCAA5E128DE9": {
+            "Expiration": "Oct  6 08:39:56 2046",
+            "Name": "Certum Trusted Network CA 2",
+            "Startdate": "Oct  6 08:39:56 2011",
+            "Uuid": "21D6D04A4F250FC93237FCAA5E128DE9"
+          },
+          "Certum Trusted Network CA_0444C0": {
+            "Expiration": "Dec 31 12:07:37 2029",
+            "Name": "Certum Trusted Network CA",
+            "Startdate": "Oct 22 12:07:37 2008",
+            "Uuid": "0444C0"
+          },
+          "Chambers of Commerce Root - 2008_A3DA427EA4B1AEDA": {
+            "Expiration": "Jul 31 12:29:50 2038",
+            "Name": "Chambers of Commerce Root - 2008",
+            "Startdate": "Aug  1 12:29:50 2008",
+            "Uuid": "A3DA427EA4B1AEDA"
+          },
+          "Cybertrust Global Root_0400000000010F85AA2D48": {
+            "Expiration": "Dec 15 08:00:00 2021",
+            "Name": "Cybertrust Global Root",
+            "Startdate": "Dec 15 08:00:00 2006",
+            "Uuid": "0400000000010F85AA2D48"
+          },
+          "D-TRUST Root Class 3 CA 2 2009_0983F3": {
+            "Expiration": "Nov  5 08:35:58 2029",
+            "Name": "D-TRUST Root Class 3 CA 2 2009",
+            "Startdate": "Nov  5 08:35:58 2009",
+            "Uuid": "0983F3"
+          },
+          "D-TRUST Root Class 3 CA 2 EV 2009_0983F4": {
+            "Expiration": "Nov  5 08:50:46 2029",
+            "Name": "D-TRUST Root Class 3 CA 2 EV 2009",
+            "Startdate": "Nov  5 08:50:46 2009",
+            "Uuid": "0983F4"
+          },
+          "DST Root CA X3_44AFB080D6A327BA893039862EF8406B": {
+            "Expiration": "Sep 30 14:01:15 2021",
+            "Name": "DST Root CA X3",
+            "Startdate": "Sep 30 21:12:19 2000",
+            "Uuid": "44AFB080D6A327BA893039862EF8406B"
+          },
+          "DigiCert Assured ID Root CA_0CE7E0E517D846FE8FE560FC1BF03039": {
+            "Expiration": "Nov 10 00:00:00 2031",
+            "Name": "DigiCert Assured ID Root CA",
+            "Startdate": "Nov 10 00:00:00 2006",
+            "Uuid": "0CE7E0E517D846FE8FE560FC1BF03039"
+          },
+          "DigiCert Assured ID Root G2_0B931C3AD63967EA6723BFC3AF9AF44B": {
+            "Expiration": "Jan 15 12:00:00 2038",
+            "Name": "DigiCert Assured ID Root G2",
+            "Startdate": "Aug  1 12:00:00 2013",
+            "Uuid": "0B931C3AD63967EA6723BFC3AF9AF44B"
+          },
+          "DigiCert Assured ID Root G3_0BA15AFA1DDFA0B54944AFCD24A06CEC": {
+            "Expiration": "Jan 15 12:00:00 2038",
+            "Name": "DigiCert Assured ID Root G3",
+            "Startdate": "Aug  1 12:00:00 2013",
+            "Uuid": "0BA15AFA1DDFA0B54944AFCD24A06CEC"
+          },
+          "DigiCert Global Root CA_083BE056904246B1A1756AC95991C74A": {
+            "Expiration": "Nov 10 00:00:00 2031",
+            "Name": "DigiCert Global Root CA",
+            "Startdate": "Nov 10 00:00:00 2006",
+            "Uuid": "083BE056904246B1A1756AC95991C74A"
+          },
+          "DigiCert Global Root G2_033AF1E6A711A9A0BB2864B11D09FAE5": {
+            "Expiration": "Jan 15 12:00:00 2038",
+            "Name": "DigiCert Global Root G2",
+            "Startdate": "Aug  1 12:00:00 2013",
+            "Uuid": "033AF1E6A711A9A0BB2864B11D09FAE5"
+          },
+          "DigiCert Global Root G3_055556BCF25EA43535C3A40FD5AB4572": {
+            "Expiration": "Jan 15 12:00:00 2038",
+            "Name": "DigiCert Global Root G3",
+            "Startdate": "Aug  1 12:00:00 2013",
+            "Uuid": "055556BCF25EA43535C3A40FD5AB4572"
+          },
+          "DigiCert High Assurance EV Root CA_02AC5C266A0B409B8F0B79F2AE462577": {
+            "Expiration": "Nov 10 00:00:00 2031",
+            "Name": "DigiCert High Assurance EV Root CA",
+            "Startdate": "Nov 10 00:00:00 2006",
+            "Uuid": "02AC5C266A0B409B8F0B79F2AE462577"
+          },
+          "DigiCert Trusted Root G4_059B1B579E8E2132E23907BDA777755C": {
+            "Expiration": "Jan 15 12:00:00 2038",
+            "Name": "DigiCert Trusted Root G4",
+            "Startdate": "Aug  1 12:00:00 2013",
+            "Uuid": "059B1B579E8E2132E23907BDA777755C"
+          },
+          "E-Tugra Certification Authority_6A683E9C519BCB53": {
+            "Expiration": "Mar  3 12:09:48 2023",
+            "Name": "E-Tugra Certification Authority",
+            "Startdate": "Mar  5 12:09:48 2013",
+            "Uuid": "6A683E9C519BCB53"
+          },
+          "EC-ACC_-11D4C2142BDE21EB579D53FB0C223BFF": {
+            "Expiration": "Jan  7 22:59:59 2031",
+            "Name": "EC-ACC",
+            "Startdate": "Jan  7 23:00:00 2003",
+            "Uuid": "-11D4C2142BDE21EB579D53FB0C223BFF"
+          },
+          "EE Certification Centre Root CA_5480F9A073ED3F004CCA89D8E371E64A": {
+            "Expiration": "Dec 17 23:59:59 2030",
+            "Name": "EE Certification Centre Root CA",
+            "Startdate": "Oct 30 10:10:30 2010",
+            "Uuid": "5480F9A073ED3F004CCA89D8E371E64A"
+          },
+          "Entrust Root Certification Authority - EC1_A68B79290000000050D091F9": {
+            "Expiration": "Dec 18 15:55:36 2037",
+            "Name": "Entrust Root Certification Authority - EC1",
+            "Startdate": "Dec 18 15:25:36 2012",
+            "Uuid": "A68B79290000000050D091F9"
+          },
+          "Entrust Root Certification Authority - G2_4A538C28": {
+            "Expiration": "Dec  7 17:55:54 2030",
+            "Name": "Entrust Root Certification Authority - G2",
+            "Startdate": "Jul  7 17:25:54 2009",
+            "Uuid": "4A538C28"
+          },
+          "Entrust Root Certification Authority - G4_D9B5437FAFA9390F000000005565AD58": {
+            "Expiration": "Dec 27 11:41:16 2037",
+            "Name": "Entrust Root Certification Authority - G4",
+            "Startdate": "May 27 11:11:16 2015",
+            "Uuid": "D9B5437FAFA9390F000000005565AD58"
+          },
+          "Entrust Root Certification Authority_456B5054": {
+            "Expiration": "Nov 27 20:53:42 2026",
+            "Name": "Entrust Root Certification Authority",
+            "Startdate": "Nov 27 20:23:42 2006",
+            "Uuid": "456B5054"
+          },
+          "Entrust.net Certification Authority (2048)_3863DEF8": {
+            "Expiration": "Jul 24 14:15:12 2029",
+            "Name": "Entrust.net Certification Authority (2048)",
+            "Startdate": "Dec 24 17:50:51 1999",
+            "Uuid": "3863DEF8"
+          },
+          "GDCA TrustAUTH R5 ROOT_7D0997FEF047EA7A": {
+            "Expiration": "Dec 31 15:59:59 2040",
+            "Name": "GDCA TrustAUTH R5 ROOT",
+            "Startdate": "Nov 26 05:13:15 2014",
+            "Uuid": "7D0997FEF047EA7A"
+          },
+          "GTS Root R1_6E47A9C54B470C0DEC33D089B91CF4E1": {
+            "Expiration": "Jun 22 00:00:00 2036",
+            "Name": "GTS Root R1",
+            "Startdate": "Jun 22 00:00:00 2016",
+            "Uuid": "6E47A9C54B470C0DEC33D089B91CF4E1"
+          },
+          "GTS Root R2_6E47A9C65AB3E720C5309A3F6852F26F": {
+            "Expiration": "Jun 22 00:00:00 2036",
+            "Name": "GTS Root R2",
+            "Startdate": "Jun 22 00:00:00 2016",
+            "Uuid": "6E47A9C65AB3E720C5309A3F6852F26F"
+          },
+          "GTS Root R3_6E47A9C76CA9732440890F0355DD8D1D": {
+            "Expiration": "Jun 22 00:00:00 2036",
+            "Name": "GTS Root R3",
+            "Startdate": "Jun 22 00:00:00 2016",
+            "Uuid": "6E47A9C76CA9732440890F0355DD8D1D"
+          },
+          "GTS Root R4_6E47A9C88B94B6E8BB3B2AD8A2B2C199": {
+            "Expiration": "Jun 22 00:00:00 2036",
+            "Name": "GTS Root R4",
+            "Startdate": "Jun 22 00:00:00 2016",
+            "Uuid": "6E47A9C88B94B6E8BB3B2AD8A2B2C199"
+          },
+          "GeoTrust Universal CA 2_01": {
+            "Expiration": "Mar  4 05:00:00 2029",
+            "Name": "GeoTrust Universal CA 2",
+            "Startdate": "Mar  4 05:00:00 2004",
+            "Uuid": "01"
+          },
+          "Global Chambersign Root - 2008_C9CDD3E9D57D23CE": {
+            "Expiration": "Jul 31 12:31:40 2038",
+            "Name": "Global Chambersign Root - 2008",
+            "Startdate": "Aug  1 12:31:40 2008",
+            "Uuid": "C9CDD3E9D57D23CE"
+          },
+          "GlobalSign Root CA_040000000001154B5AC394": {
+            "Expiration": "Jan 28 12:00:00 2028",
+            "Name": "GlobalSign Root CA",
+            "Startdate": "Sep  1 12:00:00 1998",
+            "Uuid": "040000000001154B5AC394"
+          },
+          "GlobalSign_0400000000010F8626E60D": {
+            "Expiration": "Dec 15 08:00:00 2021",
+            "Name": "GlobalSign",
+            "Startdate": "Dec 15 08:00:00 2006",
+            "Uuid": "0400000000010F8626E60D"
+          },
+          "GlobalSign_04000000000121585308A2": {
+            "Expiration": "Mar 18 10:00:00 2029",
+            "Name": "GlobalSign",
+            "Startdate": "Mar 18 10:00:00 2009",
+            "Uuid": "04000000000121585308A2"
+          },
+          "GlobalSign_2A38A41C960A04DE42B228A50BE8349802": {
+            "Expiration": "Jan 19 03:14:07 2038",
+            "Name": "GlobalSign",
+            "Startdate": "Nov 13 00:00:00 2012",
+            "Uuid": "2A38A41C960A04DE42B228A50BE8349802"
+          },
+          "GlobalSign_45E6BB038333C3856548E6FF4551": {
+            "Expiration": "Dec 10 00:00:00 2034",
+            "Name": "GlobalSign",
+            "Startdate": "Dec 10 00:00:00 2014",
+            "Uuid": "45E6BB038333C3856548E6FF4551"
+          },
+          "GlobalSign_605949E0262EBB55F90A778A71F94AD86C": {
+            "Expiration": "Jan 19 03:14:07 2038",
+            "Name": "GlobalSign",
+            "Startdate": "Nov 13 00:00:00 2012",
+            "Uuid": "605949E0262EBB55F90A778A71F94AD86C"
+          },
+          "Go Daddy Class 2 Certification Authority_0": {
+            "Expiration": "Jun 29 17:06:20 2034",
+            "Name": "Go Daddy Class 2 Certification Authority",
+            "Startdate": "Jun 29 17:06:20 2004",
+            "Uuid": "0"
+          },
+          "Go Daddy Root Certificate Authority - G2_0": {
+            "Expiration": "Dec 31 23:59:59 2037",
+            "Name": "Go Daddy Root Certificate Authority - G2",
+            "Startdate": "Sep  1 00:00:00 2009",
+            "Uuid": "0"
+          },
+          "Government Root Certification Authority_1F9D595AD72FC20644A5800869E35EF6": {
+            "Expiration": "Dec  5 13:23:33 2032",
+            "Name": "Government Root Certification Authority",
+            "Startdate": "Dec  5 13:23:33 2002",
+            "Uuid": "1F9D595AD72FC20644A5800869E35EF6"
+          },
+          "Hellenic Academic and Research Institutions ECC RootCA 2015_0": {
+            "Expiration": "Jun 30 10:37:12 2040",
+            "Name": "Hellenic Academic and Research Institutions ECC RootCA 2015",
+            "Startdate": "Jul  7 10:37:12 2015",
+            "Uuid": "0"
+          },
+          "Hellenic Academic and Research Institutions RootCA 2011_0": {
+            "Expiration": "Dec  1 13:49:52 2031",
+            "Name": "Hellenic Academic and Research Institutions RootCA 2011",
+            "Startdate": "Dec  6 13:49:52 2011",
+            "Uuid": "0"
+          },
+          "Hellenic Academic and Research Institutions RootCA 2015_0": {
+            "Expiration": "Jun 30 10:11:21 2040",
+            "Name": "Hellenic Academic and Research Institutions RootCA 2015",
+            "Startdate": "Jul  7 10:11:21 2015",
+            "Uuid": "0"
+          },
+          "Hongkong Post Root CA 1_03E8": {
+            "Expiration": "May 15 04:52:29 2023",
+            "Name": "Hongkong Post Root CA 1",
+            "Startdate": "May 15 05:13:14 2003",
+            "Uuid": "03E8"
+          },
+          "Hongkong Post Root CA 3_08165F8A4CA5EC00C99340DFC4C6AE23B81C5AA4": {
+            "Expiration": "Jun  3 02:29:46 2042",
+            "Name": "Hongkong Post Root CA 3",
+            "Startdate": "Jun  3 02:29:46 2017",
+            "Uuid": "08165F8A4CA5EC00C99340DFC4C6AE23B81C5AA4"
+          },
+          "ISRG Root X1_8210CFB0D240E3594463E0BB63828B00": {
+            "Expiration": "Jun  4 11:04:38 2035",
+            "Name": "ISRG Root X1",
+            "Startdate": "Jun  4 11:04:38 2015",
+            "Uuid": "8210CFB0D240E3594463E0BB63828B00"
+          },
+          "IdenTrust Commercial Root CA 1_0A0142800000014523C844B500000002": {
+            "Expiration": "Jan 16 18:12:23 2034",
+            "Name": "IdenTrust Commercial Root CA 1",
+            "Startdate": "Jan 16 18:12:23 2014",
+            "Uuid": "0A0142800000014523C844B500000002"
+          },
+          "IdenTrust Public Sector Root CA 1_0A0142800000014523CF467C00000002": {
+            "Expiration": "Jan 16 17:53:32 2034",
+            "Name": "IdenTrust Public Sector Root CA 1",
+            "Startdate": "Jan 16 17:53:32 2014",
+            "Uuid": "0A0142800000014523CF467C00000002"
+          },
+          "Izenpe.com_B0B75A16485FBFE1CBF58BD719E67D": {
+            "Expiration": "Dec 13 08:27:25 2037",
+            "Name": "Izenpe.com",
+            "Startdate": "Dec 13 13:08:28 2007",
+            "Uuid": "B0B75A16485FBFE1CBF58BD719E67D"
+          },
+          "Microsec e-Szigno Root CA 2009_C27E43044E473F19": {
+            "Expiration": "Dec 30 11:30:18 2029",
+            "Name": "Microsec e-Szigno Root CA 2009",
+            "Startdate": "Jun 16 11:30:18 2009",
+            "Uuid": "C27E43044E473F19"
+          },
+          "Microsoft ECC Root Certificate Authority 2017_66F23DAF87DE8BB14AEA0C573101C2EC": {
+            "Expiration": "Jul 18 23:16:04 2042",
+            "Name": "Microsoft ECC Root Certificate Authority 2017",
+            "Startdate": "Dec 18 23:06:45 2019",
+            "Uuid": "66F23DAF87DE8BB14AEA0C573101C2EC"
+          },
+          "Microsoft RSA Root Certificate Authority 2017_1ED397095FD8B4B347701EAABE7F45B3": {
+            "Expiration": "Jul 18 23:00:23 2042",
+            "Name": "Microsoft RSA Root Certificate Authority 2017",
+            "Startdate": "Dec 18 22:51:22 2019",
+            "Uuid": "1ED397095FD8B4B347701EAABE7F45B3"
+          },
+          "NetLock Arany (Class Gold) FÅ‘tanÃºsÃ­tvÃ¡ny_49412CE40010": {
+            "Expiration": "Dec  6 15:08:21 2028",
+            "Name": "NetLock Arany (Class Gold) FÅ‘tanÃºsÃ­tvÃ¡ny",
+            "Startdate": "Dec 11 15:08:21 2008",
+            "Uuid": "49412CE40010"
+          },
+          "Network Solutions Certificate Authority_57CB336FC25C16E6471617E3903168E0": {
+            "Expiration": "Dec 31 23:59:59 2029",
+            "Name": "Network Solutions Certificate Authority",
+            "Startdate": "Dec  1 00:00:00 2006",
+            "Uuid": "57CB336FC25C16E6471617E3903168E0"
+          },
+          "OISTE WISeKey Global Root GA CA_413D72C7F46B1F81437DF1D22854DF9A": {
+            "Expiration": "Dec 11 16:09:51 2037",
+            "Name": "OISTE WISeKey Global Root GA CA",
+            "Startdate": "Dec 11 16:03:44 2005",
+            "Uuid": "413D72C7F46B1F81437DF1D22854DF9A"
+          },
+          "OISTE WISeKey Global Root GB CA_76B1205274F0858746B3F8231AF6C2C0": {
+            "Expiration": "Dec  1 15:10:31 2039",
+            "Name": "OISTE WISeKey Global Root GB CA",
+            "Startdate": "Dec  1 15:00:32 2014",
+            "Uuid": "76B1205274F0858746B3F8231AF6C2C0"
+          },
+          "OISTE WISeKey Global Root GC CA_212A560CAEDA0CAB4045BF2BA22D3AEA": {
+            "Expiration": "May  9 09:58:33 2042",
+            "Name": "OISTE WISeKey Global Root GC CA",
+            "Startdate": "May  9 09:48:34 2017",
+            "Uuid": "212A560CAEDA0CAB4045BF2BA22D3AEA"
+          },
+          "QuoVadis Root CA 1 G3_78585F2EAD2C194BE3370735341328B596D46593": {
+            "Expiration": "Jan 12 17:27:44 2042",
+            "Name": "QuoVadis Root CA 1 G3",
+            "Startdate": "Jan 12 17:27:44 2012",
+            "Uuid": "78585F2EAD2C194BE3370735341328B596D46593"
+          },
+          "QuoVadis Root CA 2 G3_445734245B81899B35F2CEB82B3B5BA726F07528": {
+            "Expiration": "Jan 12 18:59:32 2042",
+            "Name": "QuoVadis Root CA 2 G3",
+            "Startdate": "Jan 12 18:59:32 2012",
+            "Uuid": "445734245B81899B35F2CEB82B3B5BA726F07528"
+          },
+          "QuoVadis Root CA 2_0509": {
+            "Expiration": "Nov 24 18:23:33 2031",
+            "Name": "QuoVadis Root CA 2",
+            "Startdate": "Nov 24 18:27:00 2006",
+            "Uuid": "0509"
+          },
+          "QuoVadis Root CA 3 G3_2EF59B0228A7DB7AFFD5A3A9EEBD03A0CF126A1D": {
+            "Expiration": "Jan 12 20:26:32 2042",
+            "Name": "QuoVadis Root CA 3 G3",
+            "Startdate": "Jan 12 20:26:32 2012",
+            "Uuid": "2EF59B0228A7DB7AFFD5A3A9EEBD03A0CF126A1D"
+          },
+          "QuoVadis Root CA 3_05C6": {
+            "Expiration": "Nov 24 19:06:44 2031",
+            "Name": "QuoVadis Root CA 3",
+            "Startdate": "Nov 24 19:11:23 2006",
+            "Uuid": "05C6"
+          },
+          "QuoVadis Root Certification Authority_3AB6508B": {
+            "Expiration": "Mar 17 18:33:33 2021",
+            "Name": "QuoVadis Root Certification Authority",
+            "Startdate": "Mar 19 18:33:33 2001",
+            "Uuid": "3AB6508B"
+          },
+          "SSL.com EV Root Certification Authority ECC_2C299C5B16ED0595": {
+            "Expiration": "Feb 12 18:15:23 2041",
+            "Name": "SSL.com EV Root Certification Authority ECC",
+            "Startdate": "Feb 12 18:15:23 2016",
+            "Uuid": "2C299C5B16ED0595"
+          },
+          "SSL.com EV Root Certification Authority RSA R2_56B629CD34BC78F6": {
+            "Expiration": "May 30 18:14:37 2042",
+            "Name": "SSL.com EV Root Certification Authority RSA R2",
+            "Startdate": "May 31 18:14:37 2017",
+            "Uuid": "56B629CD34BC78F6"
+          },
+          "SSL.com Root Certification Authority ECC_75E6DFCBC1685BA8": {
+            "Expiration": "Feb 12 18:14:03 2041",
+            "Name": "SSL.com Root Certification Authority ECC",
+            "Startdate": "Feb 12 18:14:03 2016",
+            "Uuid": "75E6DFCBC1685BA8"
+          },
+          "SSL.com Root Certification Authority RSA_7B2C9BD316803299": {
+            "Expiration": "Feb 12 17:39:39 2041",
+            "Name": "SSL.com Root Certification Authority RSA",
+            "Startdate": "Feb 12 17:39:39 2016",
+            "Uuid": "7B2C9BD316803299"
+          },
+          "SZAFIR ROOT CA2_3E8A5D07EC55D232D5B7E3B65F01EB2DDCE4D6E4": {
+            "Expiration": "Oct 19 07:43:30 2035",
+            "Name": "SZAFIR ROOT CA2",
+            "Startdate": "Oct 19 07:43:30 2015",
+            "Uuid": "3E8A5D07EC55D232D5B7E3B65F01EB2DDCE4D6E4"
+          },
+          "Secure Global CA_075622A4E8D48A894DF413C8F0F8EAA5": {
+            "Expiration": "Dec 31 19:52:06 2029",
+            "Name": "Secure Global CA",
+            "Startdate": "Nov  7 19:42:28 2006",
+            "Uuid": "075622A4E8D48A894DF413C8F0F8EAA5"
+          },
+          "SecureSign RootCA11_01": {
+            "Expiration": "Apr  8 04:56:47 2029",
+            "Name": "SecureSign RootCA11",
+            "Startdate": "Apr  8 04:56:47 2009",
+            "Uuid": "01"
+          },
+          "SecureTrust CA_0CF08E5C0816A5AD427FF0EB271859D0": {
+            "Expiration": "Dec 31 19:40:55 2029",
+            "Name": "SecureTrust CA",
+            "Startdate": "Nov  7 19:31:18 2006",
+            "Uuid": "0CF08E5C0816A5AD427FF0EB271859D0"
+          },
+          "Security Communication RootCA1_0": {
+            "Expiration": "Sep 30 04:20:49 2023",
+            "Name": "Security Communication RootCA1",
+            "Startdate": "Sep 30 04:20:49 2003",
+            "Uuid": "0"
+          },
+          "Security Communication RootCA2_0": {
+            "Expiration": "May 29 05:00:39 2029",
+            "Name": "Security Communication RootCA2",
+            "Startdate": "May 29 05:00:39 2009",
+            "Uuid": "0"
+          },
+          "Sonera Class2 CA_1D": {
+            "Expiration": "Apr  6 07:29:40 2021",
+            "Name": "Sonera Class2 CA",
+            "Startdate": "Apr  6 07:29:40 2001",
+            "Uuid": "1D"
+          },
+          "Staat der Nederlanden EV Root CA_98968D": {
+            "Expiration": "Dec  8 11:10:28 2022",
+            "Name": "Staat der Nederlanden EV Root CA",
+            "Startdate": "Dec  8 11:19:29 2010",
+            "Uuid": "98968D"
+          },
+          "Staat der Nederlanden Root CA - G3_98A239": {
+            "Expiration": "Nov 13 23:00:00 2028",
+            "Name": "Staat der Nederlanden Root CA - G3",
+            "Startdate": "Nov 14 11:28:42 2013",
+            "Uuid": "98A239"
+          },
+          "Starfield Class 2 Certification Authority_0": {
+            "Expiration": "Jun 29 17:39:16 2034",
+            "Name": "Starfield Class 2 Certification Authority",
+            "Startdate": "Jun 29 17:39:16 2004",
+            "Uuid": "0"
+          },
+          "Starfield Root Certificate Authority - G2_0": {
+            "Expiration": "Dec 31 23:59:59 2037",
+            "Name": "Starfield Root Certificate Authority - G2",
+            "Startdate": "Sep  1 00:00:00 2009",
+            "Uuid": "0"
+          },
+          "Starfield Services Root Certificate Authority - G2_0": {
+            "Expiration": "Dec 31 23:59:59 2037",
+            "Name": "Starfield Services Root Certificate Authority - G2",
+            "Startdate": "Sep  1 00:00:00 2009",
+            "Uuid": "0"
+          },
+          "SwissSign Gold CA - G2_BB401C43F55E4FB0": {
+            "Expiration": "Oct 25 08:30:35 2036",
+            "Name": "SwissSign Gold CA - G2",
+            "Startdate": "Oct 25 08:30:35 2006",
+            "Uuid": "BB401C43F55E4FB0"
+          },
+          "SwissSign Silver CA - G2_4F1BD42F54BB2F4B": {
+            "Expiration": "Oct 25 08:32:46 2036",
+            "Name": "SwissSign Silver CA - G2",
+            "Startdate": "Oct 25 08:32:46 2006",
+            "Uuid": "4F1BD42F54BB2F4B"
+          },
+          "T-TeleSec GlobalRoot Class 2_01": {
+            "Expiration": "Oct  1 23:59:59 2033",
+            "Name": "T-TeleSec GlobalRoot Class 2",
+            "Startdate": "Oct  1 10:40:14 2008",
+            "Uuid": "01"
+          },
+          "T-TeleSec GlobalRoot Class 3_01": {
+            "Expiration": "Oct  1 23:59:59 2033",
+            "Name": "T-TeleSec GlobalRoot Class 3",
+            "Startdate": "Oct  1 10:29:56 2008",
+            "Uuid": "01"
+          },
+          "TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1_01": {
+            "Expiration": "Oct 25 08:25:55 2043",
+            "Name": "TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1",
+            "Startdate": "Nov 25 08:25:55 2013",
+            "Uuid": "01"
+          },
+          "TWCA Global Root CA_0CBE": {
+            "Expiration": "Dec 31 15:59:59 2030",
+            "Name": "TWCA Global Root CA",
+            "Startdate": "Jun 27 06:28:33 2012",
+            "Uuid": "0CBE"
+          },
+          "TWCA Root Certification Authority_01": {
+            "Expiration": "Dec 31 15:59:59 2030",
+            "Name": "TWCA Root Certification Authority",
+            "Startdate": "Aug 28 07:24:33 2008",
+            "Uuid": "01"
+          },
+          "TeliaSonera Root CA v1_95BE16A0F72E46F17B398272FA8BCD96": {
+            "Expiration": "Oct 18 12:00:50 2032",
+            "Name": "TeliaSonera Root CA v1",
+            "Startdate": "Oct 18 12:00:50 2007",
+            "Uuid": "95BE16A0F72E46F17B398272FA8BCD96"
+          },
+          "TrustCor ECA-1_84822C5F1C62D040": {
+            "Expiration": "Dec 31 17:28:07 2029",
+            "Name": "TrustCor ECA-1",
+            "Startdate": "Feb  4 12:32:33 2016",
+            "Uuid": "84822C5F1C62D040"
+          },
+          "TrustCor RootCert CA-1_DA9BEC71F303B019": {
+            "Expiration": "Dec 31 17:23:16 2029",
+            "Name": "TrustCor RootCert CA-1",
+            "Startdate": "Feb  4 12:32:16 2016",
+            "Uuid": "DA9BEC71F303B019"
+          },
+          "TrustCor RootCert CA-2_25A1DFCA33CB5902": {
+            "Expiration": "Dec 31 17:26:39 2034",
+            "Name": "TrustCor RootCert CA-2",
+            "Startdate": "Feb  4 12:32:23 2016",
+            "Uuid": "25A1DFCA33CB5902"
+          },
+          "Trustis FPS Root CA_1B1FADB620F924D3366BF7C7F18CA059": {
+            "Expiration": "Jan 21 11:36:54 2024",
+            "Name": "Trustis FPS Root CA",
+            "Startdate": "Dec 23 12:14:06 2003",
+            "Uuid": "1B1FADB620F924D3366BF7C7F18CA059"
+          },
+          "UCA Extended Validation Root_4FD22B8FF564C8339E4F345866237060": {
+            "Expiration": "Dec 31 00:00:00 2038",
+            "Name": "UCA Extended Validation Root",
+            "Startdate": "Mar 13 00:00:00 2015",
+            "Uuid": "4FD22B8FF564C8339E4F345866237060"
+          },
+          "UCA Global G2 Root_5DDFB1DA5AA3ED5DBE5A6520650390EF": {
+            "Expiration": "Dec 31 00:00:00 2040",
+            "Name": "UCA Global G2 Root",
+            "Startdate": "Mar 11 00:00:00 2016",
+            "Uuid": "5DDFB1DA5AA3ED5DBE5A6520650390EF"
+          },
+          "USERTrust ECC Certification Authority_5C8B99C55A94C5D27156DECD8980CC26": {
+            "Expiration": "Jan 18 23:59:59 2038",
+            "Name": "USERTrust ECC Certification Authority",
+            "Startdate": "Feb  1 00:00:00 2010",
+            "Uuid": "5C8B99C55A94C5D27156DECD8980CC26"
+          },
+          "USERTrust RSA Certification Authority_01FD6D30FCA3CA51A81BBC640E35032D": {
+            "Expiration": "Jan 18 23:59:59 2038",
+            "Name": "USERTrust RSA Certification Authority",
+            "Startdate": "Feb  1 00:00:00 2010",
+            "Uuid": "01FD6D30FCA3CA51A81BBC640E35032D"
+          },
+          "XRamp Global Certification Authority_50946CEC18EAD59C4DD597EF758FA0AD": {
+            "Expiration": "Jan  1 05:37:19 2035",
+            "Name": "XRamp Global Certification Authority",
+            "Startdate": "Nov  1 17:14:04 2004",
+            "Uuid": "50946CEC18EAD59C4DD597EF758FA0AD"
+          },
+          "certSIGN ROOT CA G2_110034B64EC6362D36": {
+            "Expiration": "Feb  6 09:27:35 2042",
+            "Name": "certSIGN ROOT CA G2",
+            "Startdate": "Feb  6 09:27:35 2017",
+            "Uuid": "110034B64EC6362D36"
+          },
+          "certSIGN ROOT CA_200605167002": {
+            "Expiration": "Jul  4 17:20:04 2031",
+            "Name": "certSIGN ROOT CA",
+            "Startdate": "Jul  4 17:20:04 2006",
+            "Uuid": "200605167002"
+          },
+          "e-Szigno Root CA 2017_015448EF21FD97590DF5040A": {
+            "Expiration": "Aug 22 12:07:06 2042",
+            "Name": "e-Szigno Root CA 2017",
+            "Startdate": "Aug 22 12:07:06 2017",
+            "Uuid": "015448EF21FD97590DF5040A"
+          },
+          "ePKI Root Certification Authority_15C8BD65475CAFB897005EE406D2BC9D": {
+            "Expiration": "Dec 20 02:31:27 2034",
+            "Name": "ePKI Root Certification Authority",
+            "Startdate": "Dec 20 02:31:27 2004",
+            "Uuid": "15C8BD65475CAFB897005EE406D2BC9D"
+          },
+          "emSign ECC Root CA - C3_7B71B68256B8127C9CA8": {
+            "Expiration": "Feb 18 18:30:00 2043",
+            "Name": "emSign ECC Root CA - C3",
+            "Startdate": "Feb 18 18:30:00 2018",
+            "Uuid": "7B71B68256B8127C9CA8"
+          },
+          "emSign ECC Root CA - G3_3CF607A968700EDA8B84": {
+            "Expiration": "Feb 18 18:30:00 2043",
+            "Name": "emSign ECC Root CA - G3",
+            "Startdate": "Feb 18 18:30:00 2018",
+            "Uuid": "3CF607A968700EDA8B84"
+          },
+          "emSign Root CA - C1_AECF00BAC4CF32F843B2": {
+            "Expiration": "Feb 18 18:30:00 2043",
+            "Name": "emSign Root CA - C1",
+            "Startdate": "Feb 18 18:30:00 2018",
+            "Uuid": "AECF00BAC4CF32F843B2"
+          },
+          "emSign Root CA - G1_31F5E4620C6C58EDD6D8": {
+            "Expiration": "Feb 18 18:30:00 2043",
+            "Name": "emSign Root CA - G1",
+            "Startdate": "Feb 18 18:30:00 2018",
+            "Uuid": "31F5E4620C6C58EDD6D8"
+          }
+        }
+      },
+      "Sip": {
+        "Certificates": {}
+      },
+      "Version": "2.3.0",
+      "WebServer": {
+        "Certificates": {}
+      }
+    },
+    "CloudSettings": {
+      "Version": "2.0.3",
+      "XioCloud": {
+        "IsEnabled": true
+      }
+    },
+    "ControlPorts": {
+      "Infrared": {
+        "Port1": {
+          "Id": "Port1",
+          "Name": "",
+          "ParsedCommands": [],
+          "TransmitDataFormat": "Hex"
+        },
+        "Port2": {
+          "Id": "Port2",
+          "Name": "",
+          "ParsedCommands": [],
+          "TransmitDataFormat": "Hex"
+        }
+      },
+      "Serial": {
+        "Port1": {
+          "BaudRate": "9600",
+          "Capabilities": {
+            "BaudRate": [
+              "600",
+              "1200",
+              "2400",
+              "4800",
+              "9600",
+              "14400",
+              "19200",
+              "38400",
+              "57600",
+              "115200"
+            ],
+            "HardwareHandshake": [
+              "None",
+              "RTS",
+              "CTS",
+              "RTS/CTS"
+            ],
+            "SerialPortType": "Serial232"
+          },
+          "DataBits": "8",
+          "HardwareHandshake": "None",
+          "Id": "Port1",
+          "Parity": "None",
+          "ReceivedCts": false,
+          "ReceivedData": "",
+          "ReceivedDataFormat": "Hex",
+          "SoftwareHandshake": "None",
+          "StopBits": "1",
+          "TransmitDataFormat": "Hex"
+        }
+      },
+      "Version": "2.3.0"
+    },
+    "CustomControlPortCommands": {
+      "AutomaticPowerControl": {
+        "AssociatedOutputs": {
+          "Output1": {
+            "ActivePort": "Port1",
+            "ActivePortType": "None",
+            "AutoPowerOffDelayInSeconds": 5,
+            "IsCustomTimeout": false,
+            "IsEnabled": true,
+            "IsTurnLocalOutputOffEnabled": false
+          }
+        },
+        "AssociatedOutputsSupported": [
+          "Output1"
+        ],
+        "Version": "2.0.0"
+      },
+      "Cec": {
+        "PortList": {
+          "Port1": {
+            "CommandList": {
+              "InputControl": {
+                "Format": "Hex",
+                "IsCustomCmd": true,
+                "Terminator": "None",
+                "TransmitData": ""
+              },
+              "PowerOff": {
+                "Format": "Hex",
+                "IsCustomCmd": true,
+                "Terminator": "None",
+                "TransmitData": ""
+              },
+              "PowerOn": {
+                "Format": "Hex",
+                "IsCustomCmd": true,
+                "Terminator": "None",
+                "TransmitData": ""
+              }
+            },
+            "CommandsSupported": [
+              "PowerOn",
+              "PowerOff",
+              "InputControl"
+            ],
+            "PowerControlConfig": {
+              "InputControlDelayInSeconds": 5,
+              "IsInputControlEnabled": false
+            }
+          }
+        },
+        "PortsSupported": [
+          "Port1"
+        ]
+      },
+      "Infrared": {
+        "PortList": {
+          "Port1": {
+            "CommandList": {
+              "InputControl": {
+                "TransmitData": "",
+                "Type": "None"
+              },
+              "PowerOff": {
+                "TransmitData": "",
+                "Type": "None"
+              },
+              "PowerOn": {
+                "TransmitData": "",
+                "Type": "None"
+              }
+            },
+            "CommandsSupported": [
+              "PowerOn",
+              "PowerOff",
+              "InputControl"
+            ],
+            "PowerControlConfig": {
+              "InputControlDelayInSeconds": 5,
+              "IsInputControlEnabled": false
+            }
+          },
+          "Port2": {
+            "CommandList": {
+              "InputControl": {
+                "TransmitData": "",
+                "Type": "None"
+              },
+              "PowerOff": {
+                "TransmitData": "",
+                "Type": "None"
+              },
+              "PowerOn": {
+                "TransmitData": "",
+                "Type": "None"
+              }
+            },
+            "CommandsSupported": [
+              "PowerOn",
+              "PowerOff",
+              "InputControl"
+            ],
+            "PowerControlConfig": {
+              "InputControlDelayInSeconds": 5,
+              "IsInputControlEnabled": false
+            }
+          }
+        },
+        "PortsSupported": [
+          "Port1",
+          "Port2"
+        ]
+      },
+      "Serial": {
+        "PortList": {
+          "Port1": {
+            "CommandList": {
+              "InputControl": {
+                "Format": "Hex",
+                "Terminator": "None",
+                "TransmitData": "",
+                "Type": "None"
+              },
+              "PowerOff": {
+                "Format": "Hex",
+                "Terminator": "None",
+                "TransmitData": "",
+                "Type": "None"
+              },
+              "PowerOn": {
+                "Format": "Hex",
+                "Terminator": "None",
+                "TransmitData": "",
+                "Type": "None"
+              }
+            },
+            "CommandsSupported": [
+              "PowerOn",
+              "PowerOff",
+              "InputControl"
+            ],
+            "PowerControlConfig": {
+              "InputControlDelayInSeconds": 5,
+              "IsInputControlEnabled": false
+            }
+          }
+        },
+        "PortsSupported": [
+          "Port1"
+        ]
+      },
+      "Version": "2.1.0"
+    },
+    "DeviceCapabilities": {
+      "IsConfigFileUploadSupported": false,
+      "IsLogFileUploadSupported": true,
+      "PortConfig": {
+        "NumberOfDmInputs": 0,
+        "NumberOfEthernetAdapters": 1,
+        "NumberOfHdmiInputs": 0,
+        "NumberOfHdmiOutputs": 1
+      },
+      "Version": "2.1.0"
+    },
+    "DeviceInfo": {
+      "BuildDate": "Jan 14 2021  (388783)",
+      "Category": "DM",
+      "DeviceId": "@E-00107fc69298",
+      "DeviceVersion": "5.1.4651.00031",
+      "Devicekey": "No SystemKey Server",
+      "MacAddress": "00.10.7f.c6.92.98",
+      "Manufacturer": "Crestron",
+      "Model": "DM-NVX-D30",
+      "Name": "DM-NVX-D30-00107FC69298",
+      "PufVersion": "5.1.4651.00031",
+      "RebootReason": "poweron",
+      "SerialNumber": "1915JBH12143",
+      "Version": "2.1.0"
+    },
+    "DeviceOperations": {
+      "FirmwareUpgrade": "",
+      "ProjectType": "",
+      "UpgradeStatus": "",
+      "Version": "2.3.0"
+    },
+    "DeviceSpecific": {
+      "ActiveAudioSource": "SecondaryStreamAudio",
+      "ActiveVideoSource": "None",
+      "AudioSource": "SecondaryStreamAudio",
+      "AutoInitiationMode": true,
+      "AutoInputRoutingEnabled": true,
+      "DeviceMode": "Receiver",
+      "DeviceReady": 0,
+      "IsFrontPanelLockoutEnabled": false,
+      "LanguageSupport": {
+        "LanguageList": {
+          "ar": "Arabic",
+          "cs": "Czech",
+          "da": "Danish",
+          "de": "German",
+          "en_GB": "English UK",
+          "en_US": "English US *default*",
+          "es": "Spanish",
+          "fi": "Finnish",
+          "fr_CA": "French Canada",
+          "fr_CH": "French switzerland",
+          "fr_FR": "French France",
+          "hr": "Croatian",
+          "hu": "Hungarian",
+          "it": "Italian",
+          "iw": "Hebrew",
+          "ja": "Japanese",
+          "ko": "Korean",
+          "nb": "Norweigian Bokmal",
+          "nl": "Dutch",
+          "pl": "Polish",
+          "pt": "Portuguese",
+          "ru": "Russian",
+          "sr": "Serbian",
+          "sv": "Swedish",
+          "tr": "Turkish",
+          "zh": "Chinese Simplified",
+          "zh_TW": "Chinese Traditional"
+        }
+      },
+      "LedsEnabled": true,
+      "ShowSetupInformationOnOsd": false,
+      "Version": "2.0.0",
+      "VideoSource": "None",
+      "VideoWallMode": 0
+    },
+    "DiscoveredStreams": {
+      "Streams": {
+        "00000000-0000-4002-0054-028c10f3fa0f": {
+          "Address": "https://10.198.79.242/onvif/services",
+          "AudioChannels": 0,
+          "AudioFormat": "No Audio",
+          "Bitrate": 360,
+          "Encryption": true,
+          "Fps": 0,
+          "MulticastAddress": "239.255.16.6",
+          "Resolution": "0x0",
+          "RtspUri": "rtsp://10.198.79.242:554/live.sdp",
+          "SessionName": "DM-NVX-E30-00107FC3CFC4",
+          "SnapshotUrl": "",
+          "Transport": "TS/RTP",
+          "UniqueId": "00000000-0000-4002-0054-028c10f3fa0f",
+          "VideoFormat": "Pixel"
+        }
+      },
+      "Version": "2.0.0"
+    },
+    "DiscoveryConfig": {
+      "DiscoveryAgent": true,
+      "EnableDiscoverer": true,
+      "Password": "",
+      "Ttl": "5",
+      "Username": "",
+      "Version": "2.0.1"
+    },
+    "EdidMgmnt": {
+      "CopyEdidList": {
+        "Copy Output": {
+          "Name": "Copy Output"
+        }
+      },
+      "SystemEdidList": {
+        "1": {
+          "FileName": "1 DM default EDID.cedid",
+          "Name": "01 DM default"
+        },
+        "10": {
+          "FileName": "10 Consumer 720P50 HBR.cedid",
+          "Name": "Consumer 720p50 HBR"
+        },
+        "11": {
+          "FileName": "11 Consumer 1080P50 3D HBR.cedid",
+          "Name": "Consumer 1080p50 3D HBR"
+        },
+        "12": {
+          "FileName": "12 Laptop 16x9 1080P50 2CH.cedid",
+          "Name": "Laptop 16x9 1080p50 2ch"
+        },
+        "13": {
+          "FileName": "13 DM default 4k 30Hz 2CH.cedid",
+          "Name": "DM Default 4k 30Hz 2ch"
+        },
+        "14": {
+          "FileName": "14 Consumer 4k 30Hz HBR 3D.cedid",
+          "Name": "Consumer 4k 30Hz 3D HBR"
+        },
+        "15": {
+          "FileName": "15 Consumer 4k 25Hz HBR 3D.cedid",
+          "Name": "Consumer 4k 25Hz 3D HBR"
+        },
+        "17": {
+          "FileName": "17 DM default 4k 60Hz 2CH.cedid",
+          "Name": "DM Default 4k 60Hz 2ch"
+        },
+        "18": {
+          "FileName": "18 DM Default 4k 60Hz HBR.cedid",
+          "Name": "DM Default 4k 60Hz HBR"
+        },
+        "19": {
+          "FileName": "19 4K60 444 2CH nonHDR.cedid",
+          "Name": "4K60 444 2CH Non-HDR"
+        },
+        "2": {
+          "FileName": "2 Consumer 1080P HBR.cedid",
+          "Name": "Consumer 1080p60 HBR"
+        },
+        "20": {
+          "FileName": "20 4K60 444 2CH HDR.cedid",
+          "Name": "4K60 444 2CH HDR"
+        },
+        "21": {
+          "FileName": "21 4K60 444 HBR HDR.cedid",
+          "Name": "4K60 444 HBR HDR"
+        },
+        "22": {
+          "FileName": "22 4K60 444 2CH HDR DCI.cedid",
+          "Name": "4K60 444 2CH HDR DCI"
+        },
+        "23": {
+          "FileName": "23 4K60 444 HBR nonHDR.cedid",
+          "Name": "4K60 444 HBR Non-HDR"
+        },
+        "25": {
+          "FileName": "25 4K60 444 2CH HDR10+.cedid",
+          "Name": "4K60 444 2CH HDR10+"
+        },
+        "26": {
+          "FileName": "26 4K60 444 HBR HDR10+.cedid",
+          "Name": "4K60 444 HBR HDR10+"
+        },
+        "3": {
+          "FileName": "3 Consumer 720P HBR.cedid",
+          "Name": "Consumer 720p60 HBR"
+        },
+        "4": {
+          "FileName": "4 Consumer 1080P 3D HBR.cedid",
+          "Name": "Consumer 1080p60 3D HBR"
+        },
+        "5": {
+          "FileName": "5 Laptop 16x9 1080P 2CH.cedid",
+          "Name": "Laptop 16x9 1080p60 2ch"
+        },
+        "6": {
+          "FileName": "6 Laptop 16x10 1920x1200 2CH.cedid",
+          "Name": "Laptop 16x10 1920x1200 2ch"
+        },
+        "7": {
+          "FileName": "7 Laptop 16x10 1280x800 2CH.cedid",
+          "Name": "Laptop 16x10 1280x800 2ch"
+        },
+        "8": {
+          "FileName": "8 Laptop widescreen 2CH.cedid",
+          "Name": "Laptop widescreen 2ch"
+        },
+        "9": {
+          "FileName": "9 Consumer 1080P50 HBR.cedid",
+          "Name": "Consumer 1080p50 HBR"
+        }
+      },
+      "UploadFilePath": "",
+      "Version": "2.3.0"
+    },
+    "Ethernet": {
+      "Adapters": [
+        {
+          "IPv4": {
+            "Addresses": [
+              {
+                "Address": "10.198.79.243",
+                "SubnetMask": "255.255.255.0"
+              }
+            ],
+            "DefaultGateway": "10.198.79.254",
+            "DnsServers": [
+              "10.68.196.1(DHCP)",
+              "10.84.196.1(DHCP)"
+            ],
+            "IsDhcpEnabled": true,
+            "StaticAddresses": [
+              {
+                "Address": "0.0.0.0",
+                "SubnetMask": "0.0.0.0"
+              }
+            ],
+            "StaticDefaultGateway": "0.0.0.0",
+            "StaticDns": [
+              "",
+              ""
+            ]
+          },
+          "IPv6": {
+            "Addresses": [
+              {
+                "Address": "",
+                "SubnetPrefixLength": 0
+              }
+            ],
+            "IsDhcpEnabled": true
+          },
+          "InternalName": "eth0",
+          "LinkStatus": true,
+          "MacAddress": "00.10.7f.c6.92.98",
+          "Name": "FEC1"
+        }
+      ],
+      "DomainName": "rmit.edu.au",
+      "HostName": "DM-NVX-D30-00107FC69298",
+      "IgmpVersion": "v2",
+      "IsSshEnabled": true,
+      "Version": "2.0.4"
+    },
+    "FanControl": {
+      "Fans": {
+        "Fan1": {
+          "FanMode": "Auto",
+          "FanStatus": "FullOn"
+        }
+      },
+      "Version": "2.0.0"
+    },
+    "FilePaths": {
+      "Certificate": {
+        "Intermediate": "/data/web/tmp/certificate/intermediate",
+        "Machine": "/data/web/tmp/certificate/machine",
+        "Root": "/data/web/tmp/certificate/root",
+        "Webserver": "/data/web/tmp/certificate/webserver"
+      },
+      "Edid": {
+        "Input0": "/data/web/tmp/edid/input0",
+        "Input1": "/data/web/tmp/edid/input1"
+      },
+      "Firmware": {
+        "FirmwareFile": "/data/web/tmp/firmware"
+      },
+      "Infrared": {
+        "Port1": "/data/web/tmp/infrared/port1",
+        "Port2": "/data/web/tmp/infrared/port2"
+      }
+    },
+    "Ieee8021x": {
+      "AuthenticationMethod": "Password",
+      "Domain": "",
+      "IsEnabled": false,
+      "IsServerValidationEnabled": false,
+      "MachineCertificateName": "",
+      "Password": "FALSE",
+      "TrustedCertifyingAuthorities": {
+        "Certificates": {
+          "AAA Certificate Services_01": {
+            "Name": "AAA Certificate Services",
+            "Trusted": false,
+            "Uuid": "01"
+          },
+          "AC RAIZ FNMT-RCM_5D938D306736C8061D1AC754846907": {
+            "Name": "AC RAIZ FNMT-RCM",
+            "Trusted": false,
+            "Uuid": "5D938D306736C8061D1AC754846907"
+          },
+          "ACCVRAIZ1_5EC3B7A6437FA4E0": {
+            "Name": "ACCVRAIZ1",
+            "Trusted": false,
+            "Uuid": "5EC3B7A6437FA4E0"
+          },
+          "Actalis Authentication Root CA_570A119742C4E3CC": {
+            "Name": "Actalis Authentication Root CA",
+            "Trusted": false,
+            "Uuid": "570A119742C4E3CC"
+          },
+          "AffirmTrust Commercial_7777062726A9B17C": {
+            "Name": "AffirmTrust Commercial",
+            "Trusted": false,
+            "Uuid": "7777062726A9B17C"
+          },
+          "AffirmTrust Networking_7C4F04391CD4992D": {
+            "Name": "AffirmTrust Networking",
+            "Trusted": false,
+            "Uuid": "7C4F04391CD4992D"
+          },
+          "AffirmTrust Premium ECC_7497258AC73F7A54": {
+            "Name": "AffirmTrust Premium ECC",
+            "Trusted": false,
+            "Uuid": "7497258AC73F7A54"
+          },
+          "AffirmTrust Premium_6D8C1446B1A60AEE": {
+            "Name": "AffirmTrust Premium",
+            "Trusted": false,
+            "Uuid": "6D8C1446B1A60AEE"
+          },
+          "Amazon Root CA 1_066C9FCF99BF8C0A39E2F0788A43E696365BCA": {
+            "Name": "Amazon Root CA 1",
+            "Trusted": false,
+            "Uuid": "066C9FCF99BF8C0A39E2F0788A43E696365BCA"
+          },
+          "Amazon Root CA 2_066C9FD29635869F0A0FE58678F85B26BB8A37": {
+            "Name": "Amazon Root CA 2",
+            "Trusted": false,
+            "Uuid": "066C9FD29635869F0A0FE58678F85B26BB8A37"
+          },
+          "Amazon Root CA 3_066C9FD5749736663F3B0B9AD9E89E7603F24A": {
+            "Name": "Amazon Root CA 3",
+            "Trusted": false,
+            "Uuid": "066C9FD5749736663F3B0B9AD9E89E7603F24A"
+          },
+          "Amazon Root CA 4_066C9FD7C1BB104C2943E5717B7B2CC81AC10E": {
+            "Name": "Amazon Root CA 4",
+            "Trusted": false,
+            "Uuid": "066C9FD7C1BB104C2943E5717B7B2CC81AC10E"
+          },
+          "Atos TrustedRoot 2011_5C33CB622C5FB332": {
+            "Name": "Atos TrustedRoot 2011",
+            "Trusted": false,
+            "Uuid": "5C33CB622C5FB332"
+          },
+          "Autoridad de Certificacion Firmaprofesional CIF A62634068_53EC3BEEFBB2485F": {
+            "Name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
+            "Trusted": false,
+            "Uuid": "53EC3BEEFBB2485F"
+          },
+          "Baltimore CyberTrust Root_020000B9": {
+            "Name": "Baltimore CyberTrust Root",
+            "Trusted": false,
+            "Uuid": "020000B9"
+          },
+          "Buypass Class 2 Root CA_02": {
+            "Name": "Buypass Class 2 Root CA",
+            "Trusted": false,
+            "Uuid": "02"
+          },
+          "Buypass Class 3 Root CA_02": {
+            "Name": "Buypass Class 3 Root CA",
+            "Trusted": false,
+            "Uuid": "02"
+          },
+          "CA Disig Root R2_92B888DBB08AC163": {
+            "Name": "CA Disig Root R2",
+            "Trusted": false,
+            "Uuid": "92B888DBB08AC163"
+          },
+          "CFCA EV ROOT_184ACCD6": {
+            "Name": "CFCA EV ROOT",
+            "Trusted": false,
+            "Uuid": "184ACCD6"
+          },
+          "COMODO Certification Authority_4E812D8A8265E00B02EE3E350246E53D": {
+            "Name": "COMODO Certification Authority",
+            "Trusted": false,
+            "Uuid": "4E812D8A8265E00B02EE3E350246E53D"
+          },
+          "COMODO ECC Certification Authority_1F47AFAA62007050544C019E9B63992A": {
+            "Name": "COMODO ECC Certification Authority",
+            "Trusted": false,
+            "Uuid": "1F47AFAA62007050544C019E9B63992A"
+          },
+          "COMODO RSA Certification Authority_4CAAF9CADB636FE01FF74ED85B03869D": {
+            "Name": "COMODO RSA Certification Authority",
+            "Trusted": false,
+            "Uuid": "4CAAF9CADB636FE01FF74ED85B03869D"
+          },
+          "Certigna Root CA_CAE91B89F155030DA3E6416DC4E3A6E1": {
+            "Name": "Certigna Root CA",
+            "Trusted": false,
+            "Uuid": "CAE91B89F155030DA3E6416DC4E3A6E1"
+          },
+          "Certigna_FEDCE3010FC948FF": {
+            "Name": "Certigna",
+            "Trusted": false,
+            "Uuid": "FEDCE3010FC948FF"
+          },
+          "Certum Trusted Network CA 2_21D6D04A4F250FC93237FCAA5E128DE9": {
+            "Name": "Certum Trusted Network CA 2",
+            "Trusted": false,
+            "Uuid": "21D6D04A4F250FC93237FCAA5E128DE9"
+          },
+          "Certum Trusted Network CA_0444C0": {
+            "Name": "Certum Trusted Network CA",
+            "Trusted": false,
+            "Uuid": "0444C0"
+          },
+          "Chambers of Commerce Root - 2008_A3DA427EA4B1AEDA": {
+            "Name": "Chambers of Commerce Root - 2008",
+            "Trusted": false,
+            "Uuid": "A3DA427EA4B1AEDA"
+          },
+          "Cybertrust Global Root_0400000000010F85AA2D48": {
+            "Name": "Cybertrust Global Root",
+            "Trusted": false,
+            "Uuid": "0400000000010F85AA2D48"
+          },
+          "D-TRUST Root Class 3 CA 2 2009_0983F3": {
+            "Name": "D-TRUST Root Class 3 CA 2 2009",
+            "Trusted": false,
+            "Uuid": "0983F3"
+          },
+          "D-TRUST Root Class 3 CA 2 EV 2009_0983F4": {
+            "Name": "D-TRUST Root Class 3 CA 2 EV 2009",
+            "Trusted": false,
+            "Uuid": "0983F4"
+          },
+          "DST Root CA X3_44AFB080D6A327BA893039862EF8406B": {
+            "Name": "DST Root CA X3",
+            "Trusted": false,
+            "Uuid": "44AFB080D6A327BA893039862EF8406B"
+          },
+          "DigiCert Assured ID Root CA_0CE7E0E517D846FE8FE560FC1BF03039": {
+            "Name": "DigiCert Assured ID Root CA",
+            "Trusted": false,
+            "Uuid": "0CE7E0E517D846FE8FE560FC1BF03039"
+          },
+          "DigiCert Assured ID Root G2_0B931C3AD63967EA6723BFC3AF9AF44B": {
+            "Name": "DigiCert Assured ID Root G2",
+            "Trusted": false,
+            "Uuid": "0B931C3AD63967EA6723BFC3AF9AF44B"
+          },
+          "DigiCert Assured ID Root G3_0BA15AFA1DDFA0B54944AFCD24A06CEC": {
+            "Name": "DigiCert Assured ID Root G3",
+            "Trusted": false,
+            "Uuid": "0BA15AFA1DDFA0B54944AFCD24A06CEC"
+          },
+          "DigiCert Global Root CA_083BE056904246B1A1756AC95991C74A": {
+            "Name": "DigiCert Global Root CA",
+            "Trusted": false,
+            "Uuid": "083BE056904246B1A1756AC95991C74A"
+          },
+          "DigiCert Global Root G2_033AF1E6A711A9A0BB2864B11D09FAE5": {
+            "Name": "DigiCert Global Root G2",
+            "Trusted": false,
+            "Uuid": "033AF1E6A711A9A0BB2864B11D09FAE5"
+          },
+          "DigiCert Global Root G3_055556BCF25EA43535C3A40FD5AB4572": {
+            "Name": "DigiCert Global Root G3",
+            "Trusted": false,
+            "Uuid": "055556BCF25EA43535C3A40FD5AB4572"
+          },
+          "DigiCert High Assurance EV Root CA_02AC5C266A0B409B8F0B79F2AE462577": {
+            "Name": "DigiCert High Assurance EV Root CA",
+            "Trusted": false,
+            "Uuid": "02AC5C266A0B409B8F0B79F2AE462577"
+          },
+          "DigiCert Trusted Root G4_059B1B579E8E2132E23907BDA777755C": {
+            "Name": "DigiCert Trusted Root G4",
+            "Trusted": false,
+            "Uuid": "059B1B579E8E2132E23907BDA777755C"
+          },
+          "E-Tugra Certification Authority_6A683E9C519BCB53": {
+            "Name": "E-Tugra Certification Authority",
+            "Trusted": false,
+            "Uuid": "6A683E9C519BCB53"
+          },
+          "EC-ACC_-11D4C2142BDE21EB579D53FB0C223BFF": {
+            "Name": "EC-ACC",
+            "Trusted": false,
+            "Uuid": "-11D4C2142BDE21EB579D53FB0C223BFF"
+          },
+          "EE Certification Centre Root CA_5480F9A073ED3F004CCA89D8E371E64A": {
+            "Name": "EE Certification Centre Root CA",
+            "Trusted": false,
+            "Uuid": "5480F9A073ED3F004CCA89D8E371E64A"
+          },
+          "Entrust Root Certification Authority - EC1_A68B79290000000050D091F9": {
+            "Name": "Entrust Root Certification Authority - EC1",
+            "Trusted": false,
+            "Uuid": "A68B79290000000050D091F9"
+          },
+          "Entrust Root Certification Authority - G2_4A538C28": {
+            "Name": "Entrust Root Certification Authority - G2",
+            "Trusted": false,
+            "Uuid": "4A538C28"
+          },
+          "Entrust Root Certification Authority - G4_D9B5437FAFA9390F000000005565AD58": {
+            "Name": "Entrust Root Certification Authority - G4",
+            "Trusted": false,
+            "Uuid": "D9B5437FAFA9390F000000005565AD58"
+          },
+          "Entrust Root Certification Authority_456B5054": {
+            "Name": "Entrust Root Certification Authority",
+            "Trusted": false,
+            "Uuid": "456B5054"
+          },
+          "Entrust.net Certification Authority (2048)_3863DEF8": {
+            "Name": "Entrust.net Certification Authority (2048)",
+            "Trusted": false,
+            "Uuid": "3863DEF8"
+          },
+          "GDCA TrustAUTH R5 ROOT_7D0997FEF047EA7A": {
+            "Name": "GDCA TrustAUTH R5 ROOT",
+            "Trusted": false,
+            "Uuid": "7D0997FEF047EA7A"
+          },
+          "GTS Root R1_6E47A9C54B470C0DEC33D089B91CF4E1": {
+            "Name": "GTS Root R1",
+            "Trusted": false,
+            "Uuid": "6E47A9C54B470C0DEC33D089B91CF4E1"
+          },
+          "GTS Root R2_6E47A9C65AB3E720C5309A3F6852F26F": {
+            "Name": "GTS Root R2",
+            "Trusted": false,
+            "Uuid": "6E47A9C65AB3E720C5309A3F6852F26F"
+          },
+          "GTS Root R3_6E47A9C76CA9732440890F0355DD8D1D": {
+            "Name": "GTS Root R3",
+            "Trusted": false,
+            "Uuid": "6E47A9C76CA9732440890F0355DD8D1D"
+          },
+          "GTS Root R4_6E47A9C88B94B6E8BB3B2AD8A2B2C199": {
+            "Name": "GTS Root R4",
+            "Trusted": false,
+            "Uuid": "6E47A9C88B94B6E8BB3B2AD8A2B2C199"
+          },
+          "GeoTrust Universal CA 2_01": {
+            "Name": "GeoTrust Universal CA 2",
+            "Trusted": false,
+            "Uuid": "01"
+          },
+          "Global Chambersign Root - 2008_C9CDD3E9D57D23CE": {
+            "Name": "Global Chambersign Root - 2008",
+            "Trusted": false,
+            "Uuid": "C9CDD3E9D57D23CE"
+          },
+          "GlobalSign Root CA_040000000001154B5AC394": {
+            "Name": "GlobalSign Root CA",
+            "Trusted": false,
+            "Uuid": "040000000001154B5AC394"
+          },
+          "GlobalSign_0400000000010F8626E60D": {
+            "Name": "GlobalSign",
+            "Trusted": false,
+            "Uuid": "0400000000010F8626E60D"
+          },
+          "GlobalSign_04000000000121585308A2": {
+            "Name": "GlobalSign",
+            "Trusted": false,
+            "Uuid": "04000000000121585308A2"
+          },
+          "GlobalSign_2A38A41C960A04DE42B228A50BE8349802": {
+            "Name": "GlobalSign",
+            "Trusted": false,
+            "Uuid": "2A38A41C960A04DE42B228A50BE8349802"
+          },
+          "GlobalSign_45E6BB038333C3856548E6FF4551": {
+            "Name": "GlobalSign",
+            "Trusted": false,
+            "Uuid": "45E6BB038333C3856548E6FF4551"
+          },
+          "GlobalSign_605949E0262EBB55F90A778A71F94AD86C": {
+            "Name": "GlobalSign",
+            "Trusted": false,
+            "Uuid": "605949E0262EBB55F90A778A71F94AD86C"
+          },
+          "Go Daddy Class 2 Certification Authority_0": {
+            "Name": "Go Daddy Class 2 Certification Authority",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Go Daddy Root Certificate Authority - G2_0": {
+            "Name": "Go Daddy Root Certificate Authority - G2",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Government Root Certification Authority_1F9D595AD72FC20644A5800869E35EF6": {
+            "Name": "Government Root Certification Authority",
+            "Trusted": false,
+            "Uuid": "1F9D595AD72FC20644A5800869E35EF6"
+          },
+          "Hellenic Academic and Research Institutions ECC RootCA 2015_0": {
+            "Name": "Hellenic Academic and Research Institutions ECC RootCA 2015",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Hellenic Academic and Research Institutions RootCA 2011_0": {
+            "Name": "Hellenic Academic and Research Institutions RootCA 2011",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Hellenic Academic and Research Institutions RootCA 2015_0": {
+            "Name": "Hellenic Academic and Research Institutions RootCA 2015",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Hongkong Post Root CA 1_03E8": {
+            "Name": "Hongkong Post Root CA 1",
+            "Trusted": false,
+            "Uuid": "03E8"
+          },
+          "Hongkong Post Root CA 3_08165F8A4CA5EC00C99340DFC4C6AE23B81C5AA4": {
+            "Name": "Hongkong Post Root CA 3",
+            "Trusted": false,
+            "Uuid": "08165F8A4CA5EC00C99340DFC4C6AE23B81C5AA4"
+          },
+          "ISRG Root X1_8210CFB0D240E3594463E0BB63828B00": {
+            "Name": "ISRG Root X1",
+            "Trusted": false,
+            "Uuid": "8210CFB0D240E3594463E0BB63828B00"
+          },
+          "IdenTrust Commercial Root CA 1_0A0142800000014523C844B500000002": {
+            "Name": "IdenTrust Commercial Root CA 1",
+            "Trusted": false,
+            "Uuid": "0A0142800000014523C844B500000002"
+          },
+          "IdenTrust Public Sector Root CA 1_0A0142800000014523CF467C00000002": {
+            "Name": "IdenTrust Public Sector Root CA 1",
+            "Trusted": false,
+            "Uuid": "0A0142800000014523CF467C00000002"
+          },
+          "Izenpe.com_B0B75A16485FBFE1CBF58BD719E67D": {
+            "Name": "Izenpe.com",
+            "Trusted": false,
+            "Uuid": "B0B75A16485FBFE1CBF58BD719E67D"
+          },
+          "Microsec e-Szigno Root CA 2009_C27E43044E473F19": {
+            "Name": "Microsec e-Szigno Root CA 2009",
+            "Trusted": false,
+            "Uuid": "C27E43044E473F19"
+          },
+          "Microsoft ECC Root Certificate Authority 2017_66F23DAF87DE8BB14AEA0C573101C2EC": {
+            "Name": "Microsoft ECC Root Certificate Authority 2017",
+            "Trusted": false,
+            "Uuid": "66F23DAF87DE8BB14AEA0C573101C2EC"
+          },
+          "Microsoft RSA Root Certificate Authority 2017_1ED397095FD8B4B347701EAABE7F45B3": {
+            "Name": "Microsoft RSA Root Certificate Authority 2017",
+            "Trusted": false,
+            "Uuid": "1ED397095FD8B4B347701EAABE7F45B3"
+          },
+          "NetLock Arany (Class Gold) FÅ‘tanÃºsÃ­tvÃ¡ny_49412CE40010": {
+            "Name": "NetLock Arany (Class Gold) FÅ‘tanÃºsÃ­tvÃ¡ny",
+            "Trusted": false,
+            "Uuid": "49412CE40010"
+          },
+          "Network Solutions Certificate Authority_57CB336FC25C16E6471617E3903168E0": {
+            "Name": "Network Solutions Certificate Authority",
+            "Trusted": false,
+            "Uuid": "57CB336FC25C16E6471617E3903168E0"
+          },
+          "OISTE WISeKey Global Root GA CA_413D72C7F46B1F81437DF1D22854DF9A": {
+            "Name": "OISTE WISeKey Global Root GA CA",
+            "Trusted": false,
+            "Uuid": "413D72C7F46B1F81437DF1D22854DF9A"
+          },
+          "OISTE WISeKey Global Root GB CA_76B1205274F0858746B3F8231AF6C2C0": {
+            "Name": "OISTE WISeKey Global Root GB CA",
+            "Trusted": false,
+            "Uuid": "76B1205274F0858746B3F8231AF6C2C0"
+          },
+          "OISTE WISeKey Global Root GC CA_212A560CAEDA0CAB4045BF2BA22D3AEA": {
+            "Name": "OISTE WISeKey Global Root GC CA",
+            "Trusted": false,
+            "Uuid": "212A560CAEDA0CAB4045BF2BA22D3AEA"
+          },
+          "QuoVadis Root CA 1 G3_78585F2EAD2C194BE3370735341328B596D46593": {
+            "Name": "QuoVadis Root CA 1 G3",
+            "Trusted": false,
+            "Uuid": "78585F2EAD2C194BE3370735341328B596D46593"
+          },
+          "QuoVadis Root CA 2 G3_445734245B81899B35F2CEB82B3B5BA726F07528": {
+            "Name": "QuoVadis Root CA 2 G3",
+            "Trusted": false,
+            "Uuid": "445734245B81899B35F2CEB82B3B5BA726F07528"
+          },
+          "QuoVadis Root CA 2_0509": {
+            "Name": "QuoVadis Root CA 2",
+            "Trusted": false,
+            "Uuid": "0509"
+          },
+          "QuoVadis Root CA 3 G3_2EF59B0228A7DB7AFFD5A3A9EEBD03A0CF126A1D": {
+            "Name": "QuoVadis Root CA 3 G3",
+            "Trusted": false,
+            "Uuid": "2EF59B0228A7DB7AFFD5A3A9EEBD03A0CF126A1D"
+          },
+          "QuoVadis Root CA 3_05C6": {
+            "Name": "QuoVadis Root CA 3",
+            "Trusted": false,
+            "Uuid": "05C6"
+          },
+          "QuoVadis Root Certification Authority_3AB6508B": {
+            "Name": "QuoVadis Root Certification Authority",
+            "Trusted": false,
+            "Uuid": "3AB6508B"
+          },
+          "SSL.com EV Root Certification Authority ECC_2C299C5B16ED0595": {
+            "Name": "SSL.com EV Root Certification Authority ECC",
+            "Trusted": false,
+            "Uuid": "2C299C5B16ED0595"
+          },
+          "SSL.com EV Root Certification Authority RSA R2_56B629CD34BC78F6": {
+            "Name": "SSL.com EV Root Certification Authority RSA R2",
+            "Trusted": false,
+            "Uuid": "56B629CD34BC78F6"
+          },
+          "SSL.com Root Certification Authority ECC_75E6DFCBC1685BA8": {
+            "Name": "SSL.com Root Certification Authority ECC",
+            "Trusted": false,
+            "Uuid": "75E6DFCBC1685BA8"
+          },
+          "SSL.com Root Certification Authority RSA_7B2C9BD316803299": {
+            "Name": "SSL.com Root Certification Authority RSA",
+            "Trusted": false,
+            "Uuid": "7B2C9BD316803299"
+          },
+          "SZAFIR ROOT CA2_3E8A5D07EC55D232D5B7E3B65F01EB2DDCE4D6E4": {
+            "Name": "SZAFIR ROOT CA2",
+            "Trusted": false,
+            "Uuid": "3E8A5D07EC55D232D5B7E3B65F01EB2DDCE4D6E4"
+          },
+          "Secure Global CA_075622A4E8D48A894DF413C8F0F8EAA5": {
+            "Name": "Secure Global CA",
+            "Trusted": false,
+            "Uuid": "075622A4E8D48A894DF413C8F0F8EAA5"
+          },
+          "SecureSign RootCA11_01": {
+            "Name": "SecureSign RootCA11",
+            "Trusted": false,
+            "Uuid": "01"
+          },
+          "SecureTrust CA_0CF08E5C0816A5AD427FF0EB271859D0": {
+            "Name": "SecureTrust CA",
+            "Trusted": false,
+            "Uuid": "0CF08E5C0816A5AD427FF0EB271859D0"
+          },
+          "Security Communication RootCA1_0": {
+            "Name": "Security Communication RootCA1",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Security Communication RootCA2_0": {
+            "Name": "Security Communication RootCA2",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Sonera Class2 CA_1D": {
+            "Name": "Sonera Class2 CA",
+            "Trusted": false,
+            "Uuid": "1D"
+          },
+          "Staat der Nederlanden EV Root CA_98968D": {
+            "Name": "Staat der Nederlanden EV Root CA",
+            "Trusted": false,
+            "Uuid": "98968D"
+          },
+          "Staat der Nederlanden Root CA - G3_98A239": {
+            "Name": "Staat der Nederlanden Root CA - G3",
+            "Trusted": false,
+            "Uuid": "98A239"
+          },
+          "Starfield Class 2 Certification Authority_0": {
+            "Name": "Starfield Class 2 Certification Authority",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Starfield Root Certificate Authority - G2_0": {
+            "Name": "Starfield Root Certificate Authority - G2",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "Starfield Services Root Certificate Authority - G2_0": {
+            "Name": "Starfield Services Root Certificate Authority - G2",
+            "Trusted": false,
+            "Uuid": "0"
+          },
+          "SwissSign Gold CA - G2_BB401C43F55E4FB0": {
+            "Name": "SwissSign Gold CA - G2",
+            "Trusted": false,
+            "Uuid": "BB401C43F55E4FB0"
+          },
+          "SwissSign Silver CA - G2_4F1BD42F54BB2F4B": {
+            "Name": "SwissSign Silver CA - G2",
+            "Trusted": false,
+            "Uuid": "4F1BD42F54BB2F4B"
+          },
+          "T-TeleSec GlobalRoot Class 2_01": {
+            "Name": "T-TeleSec GlobalRoot Class 2",
+            "Trusted": false,
+            "Uuid": "01"
+          },
+          "T-TeleSec GlobalRoot Class 3_01": {
+            "Name": "T-TeleSec GlobalRoot Class 3",
+            "Trusted": false,
+            "Uuid": "01"
+          },
+          "TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1_01": {
+            "Name": "TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1",
+            "Trusted": false,
+            "Uuid": "01"
+          },
+          "TWCA Global Root CA_0CBE": {
+            "Name": "TWCA Global Root CA",
+            "Trusted": false,
+            "Uuid": "0CBE"
+          },
+          "TWCA Root Certification Authority_01": {
+            "Name": "TWCA Root Certification Authority",
+            "Trusted": false,
+            "Uuid": "01"
+          },
+          "TeliaSonera Root CA v1_95BE16A0F72E46F17B398272FA8BCD96": {
+            "Name": "TeliaSonera Root CA v1",
+            "Trusted": false,
+            "Uuid": "95BE16A0F72E46F17B398272FA8BCD96"
+          },
+          "TrustCor ECA-1_84822C5F1C62D040": {
+            "Name": "TrustCor ECA-1",
+            "Trusted": false,
+            "Uuid": "84822C5F1C62D040"
+          },
+          "TrustCor RootCert CA-1_DA9BEC71F303B019": {
+            "Name": "TrustCor RootCert CA-1",
+            "Trusted": false,
+            "Uuid": "DA9BEC71F303B019"
+          },
+          "TrustCor RootCert CA-2_25A1DFCA33CB5902": {
+            "Name": "TrustCor RootCert CA-2",
+            "Trusted": false,
+            "Uuid": "25A1DFCA33CB5902"
+          },
+          "Trustis FPS Root CA_1B1FADB620F924D3366BF7C7F18CA059": {
+            "Name": "Trustis FPS Root CA",
+            "Trusted": false,
+            "Uuid": "1B1FADB620F924D3366BF7C7F18CA059"
+          },
+          "UCA Extended Validation Root_4FD22B8FF564C8339E4F345866237060": {
+            "Name": "UCA Extended Validation Root",
+            "Trusted": false,
+            "Uuid": "4FD22B8FF564C8339E4F345866237060"
+          },
+          "UCA Global G2 Root_5DDFB1DA5AA3ED5DBE5A6520650390EF": {
+            "Name": "UCA Global G2 Root",
+            "Trusted": false,
+            "Uuid": "5DDFB1DA5AA3ED5DBE5A6520650390EF"
+          },
+          "USERTrust ECC Certification Authority_5C8B99C55A94C5D27156DECD8980CC26": {
+            "Name": "USERTrust ECC Certification Authority",
+            "Trusted": false,
+            "Uuid": "5C8B99C55A94C5D27156DECD8980CC26"
+          },
+          "USERTrust RSA Certification Authority_01FD6D30FCA3CA51A81BBC640E35032D": {
+            "Name": "USERTrust RSA Certification Authority",
+            "Trusted": false,
+            "Uuid": "01FD6D30FCA3CA51A81BBC640E35032D"
+          },
+          "XRamp Global Certification Authority_50946CEC18EAD59C4DD597EF758FA0AD": {
+            "Name": "XRamp Global Certification Authority",
+            "Trusted": false,
+            "Uuid": "50946CEC18EAD59C4DD597EF758FA0AD"
+          },
+          "certSIGN ROOT CA G2_110034B64EC6362D36": {
+            "Name": "certSIGN ROOT CA G2",
+            "Trusted": false,
+            "Uuid": "110034B64EC6362D36"
+          },
+          "certSIGN ROOT CA_200605167002": {
+            "Name": "certSIGN ROOT CA",
+            "Trusted": false,
+            "Uuid": "200605167002"
+          },
+          "e-Szigno Root CA 2017_015448EF21FD97590DF5040A": {
+            "Name": "e-Szigno Root CA 2017",
+            "Trusted": false,
+            "Uuid": "015448EF21FD97590DF5040A"
+          },
+          "ePKI Root Certification Authority_15C8BD65475CAFB897005EE406D2BC9D": {
+            "Name": "ePKI Root Certification Authority",
+            "Trusted": false,
+            "Uuid": "15C8BD65475CAFB897005EE406D2BC9D"
+          },
+          "emSign ECC Root CA - C3_7B71B68256B8127C9CA8": {
+            "Name": "emSign ECC Root CA - C3",
+            "Trusted": false,
+            "Uuid": "7B71B68256B8127C9CA8"
+          },
+          "emSign ECC Root CA - G3_3CF607A968700EDA8B84": {
+            "Name": "emSign ECC Root CA - G3",
+            "Trusted": false,
+            "Uuid": "3CF607A968700EDA8B84"
+          },
+          "emSign Root CA - C1_AECF00BAC4CF32F843B2": {
+            "Name": "emSign Root CA - C1",
+            "Trusted": false,
+            "Uuid": "AECF00BAC4CF32F843B2"
+          },
+          "emSign Root CA - G1_31F5E4620C6C58EDD6D8": {
+            "Name": "emSign Root CA - G1",
+            "Trusted": false,
+            "Uuid": "31F5E4620C6C58EDD6D8"
+          }
+        }
+      },
+      "UserName": "",
+      "Version": "2.0.0"
+    },
+    "IpTable": {
+      "EncryptConnection": false,
+      "Entries": [],
+      "MaxEntries": 0,
+      "Password": "",
+      "Username": "",
+      "Version": "2.0.3"
+    },
+    "IpTableV2": {
+      "EncryptConnection": false,
+      "Entries": {},
+      "EntriesCurrentKeyList": [],
+      "IsReadOnly": false,
+      "MaxEntries": 256,
+      "Password": "",
+      "Username": "",
+      "Version": "2.0.0"
+    },
+    "Localization": {
+      "Name": "DM-NVX-D30-00107FC69298",
+      "Version": "2.0.1"
+    },
+    "NaxAudio": {
+      "NaxRx": {
+        "MaxStreams": 1,
+        "NaxRxStreams": {
+          "Stream1": {
+            "BitRate": 0,
+            "Channels": 0,
+            "DiagnosticMessage": "",
+            "EncodingFormat": "NoAudio",
+            "EncodingSampleRate": 0,
+            "ErrCode": "OK",
+            "ErrorMuteStatus": false,
+            "IsAutomaticInitiationEnabled": false,
+            "IsDisabled": false,
+            "IsEncryptionEnabled": false,
+            "NetworkAddressRequested": "239.255.144.7",
+            "NetworkAddressStatus": "239.255.144.7",
+            "PortRequested": 50003,
+            "PortStatus": 50003,
+            "PtpClockMismatch": false,
+            "SessionNameRequested": "",
+            "SessionNameStatus": "TSYSTx",
+            "StartRequested": false,
+            "StopRequested": true,
+            "StreamStatus": "Stream Stopped"
+          }
+        },
+        "Version": "2.0.0"
+      },
+      "NaxSdp": {
+        "Version": "2.0.0"
+      },
+      "NaxTx": {
+        "ActiveStreams": 0,
+        "IsPtpMasterActive": true,
+        "IsSapDisable": false,
+        "MaxStreams": 1,
+        "NaxTxStreams": {
+          "Stream1": {
+            "BitRate": 3072,
+            "Channels": 2,
+            "DiagnosticMessage": "",
+            "EncodingFormat": "Lpcm",
+            "EncodingSampleRate": 48000,
+            "ErrCode": "OK",
+            "IsAutomaticInitiationEnabled": true,
+            "IsDisabled": false,
+            "IsEncryptionEnabled": false,
+            "IsMuted": false,
+            "NetworkAddressRequested": "0.0.0.0",
+            "NetworkAddressStatus": "0.0.0.0",
+            "PortRequested": 5003,
+            "PortStatus": 5003,
+            "SessionID": "115117979",
+            "SessionNameRequested": "NAX-00-10-7f-c6-92-98-0",
+            "SessionNameStatus": "NAX-00-10-7f-c6-92-98-0",
+            "StartRequested": false,
+            "StopRequested": true,
+            "StreamStatus": "Stream Stopped"
+          }
+        },
+        "PtpDomain": 0,
+        "PtpPriority": 254,
+        "TsRefClkValue": "006074.fffe.052584",
+        "Version": "2.0.1"
+      },
+      "SecondaryAudioRx": {
+        "AudioMode": "Manual",
+        "Version": "2.2.0"
+      },
+      "SecondaryAudioTx": {
+        "AudioMode": "Automatic",
+        "Version": "2.2.0"
+      }
+    },
+    "ParentDevice": {
+      "SerialNumber": "",
+      "SlotInParent": "",
+      "Version": "2.0.0"
+    },
+    "Preview": {
+      "BaseFileName": "preview",
+      "ErrorMessage": "",
+      "HostPreviewImage": "local",
+      "ImageList": {
+        "Image1": {
+          "FQDNPath": "https://DM-NVX-D30-00107FC69298.rmit.edu.au/preview/preview_135px.jpeg",
+          "Height": 135,
+          "IPv4Path": "https://10.198.79.243/preview/preview_135px.jpeg",
+          "IsImageAvailable": true,
+          "Name": "preview_135px.jpeg",
+          "Size": 1937,
+          "Width": 240
+        },
+        "Image2": {
+          "FQDNPath": "https://DM-NVX-D30-00107FC69298.rmit.edu.au/preview/preview_270px.jpeg",
+          "Height": 270,
+          "IPv4Path": "https://10.198.79.243/preview/preview_270px.jpeg",
+          "IsImageAvailable": true,
+          "Name": "preview_270px.jpeg",
+          "Size": 4460,
+          "Width": 480
+        },
+        "Image3": {
+          "FQDNPath": "https://DM-NVX-D30-00107FC69298.rmit.edu.au/preview/preview_540px.jpeg",
+          "Height": 540,
+          "IPv4Path": "https://10.198.79.243/preview/preview_540px.jpeg",
+          "IsImageAvailable": true,
+          "Name": "preview_540px.jpeg",
+          "Size": 13044,
+          "Width": 960
+        }
+      },
+      "IsPreviewOutputEnabled": true,
+      "LocalPreview": {
+        "FQDNPath": "https://DM-NVX-D30-00107FC69298.rmit.edu.au/preview",
+        "IPv4Path": "https://10.198.79.243/preview",
+        "RelativePath": "/preview"
+      },
+      "StatusCode": 0,
+      "StatusMessage": "Image Parsing Success",
+      "Version": "2.1.0"
+    },
+    "StreamReceive": {
+      "Streams": [
+        {
+          "AspectRatio": "No Signal",
+          "AudioChannels": 0,
+          "AudioFormat": "NoAudio",
+          "AudioMode": "Manual",
+          "Bitrate": 0,
+          "Buffer": 1000,
+          "CodecReady": false,
+          "ElapsedSeconds": 0,
+          "FramesPerSecond": 0,
+          "HdcpTransmitterMode": "Always",
+          "HorizontalResolution": 0,
+          "InitiatorAddress": "",
+          "IsAutomaticInitiationEnabled": true,
+          "IsPasswordProtectionEnabled": true,
+          "IsStatisticsEnabled": false,
+          "MulticastAddress": "239.255.16.6",
+          "NumAudioPacketsDropped": 0,
+          "NumAudioPacketsRcvd": 0,
+          "NumVideoPacketsDropped": 0,
+          "NumVideoPacketsRcvd": 0,
+          "Password": "",
+          "Pause": false,
+          "Processing": false,
+          "ResetStatistics": false,
+          "RtpAudioPort": 49172,
+          "RtpVideoPort": 49170,
+          "RtspPort": 554,
+          "SessionInitiation": "Multicast via RTSP",
+          "Start": true,
+          "Status": "Stream started",
+          "Stop": false,
+          "StreamLocation": "rtsp://10.198.79.242:554/live.sdp",
+          "StreamProfile": "High",
+          "StreamTrustedCertifyingAuthorities": {
+            "Certificates": [
+              {
+                "Name": "SecureTrust CA",
+                "Trusted": true,
+                "Uid": "0CF08E5C0816A5AD427FF0EB271859D0"
+              }
+            ],
+            "DontTrustCertifyingAuthority": {
+              "Name": "Certificate Name"
+            },
+            "TrustCertifyingAuthority": {
+              "Name": "Certificate Name"
+            }
+          },
+          "StreamType": "Primary",
+          "TcpMode": "Auto",
+          "TransportMode": "MPEG2TSRTP",
+          "TsPort": 4570,
+          "Username": "",
+          "VerticalResolution": 0,
+          "VideoFormat": "Pixel",
+          "Volume": 0
+        },
+        {
+          "AudioChannels": 2,
+          "AudioFormat": "Lpcm",
+          "AudioMode": "Manual",
+          "Bitrate": 750,
+          "Buffer": 1000,
+          "CodecReady": false,
+          "ElapsedSeconds": 0,
+          "FramesPerSecond": 0,
+          "HdcpTransmitterMode": "Always",
+          "HorizontalResolution": 0,
+          "InitiatorAddress": "",
+          "IsAutomaticInitiationEnabled": true,
+          "IsPasswordProtectionEnabled": true,
+          "IsStatisticsEnabled": false,
+          "MulticastAddress": "",
+          "NumAudioPacketsDropped": 0,
+          "NumAudioPacketsRcvd": 0,
+          "NumVideoPacketsDropped": 0,
+          "NumVideoPacketsRcvd": 0,
+          "Password": "",
+          "Pause": false,
+          "Processing": false,
+          "ResetStatistics": false,
+          "RtpAudioPort": 49172,
+          "RtpVideoPort": 49170,
+          "RtspPort": 554,
+          "SessionInitiation": "Multicast via RTSP",
+          "Start": false,
+          "Status": "Stream Stopped",
+          "Stop": false,
+          "StreamLocation": "",
+          "StreamProfile": "High",
+          "StreamTrustedCertifyingAuthorities": {
+            "Certificates": [
+              {
+                "Name": "SecureTrust CA",
+                "Trusted": true,
+                "Uid": "0CF08E5C0816A5AD427FF0EB271859D0"
+              }
+            ],
+            "DontTrustCertifyingAuthority": {
+              "Name": "Certificate Name"
+            },
+            "TrustCertifyingAuthority": {
+              "Name": "Certificate Name"
+            }
+          },
+          "StreamType": "Primary",
+          "TcpMode": "Auto",
+          "TransportMode": "MPEG2TSRTP",
+          "TsPort": 4570,
+          "Username": "",
+          "VerticalResolution": 0,
+          "VideoFormat": "J2000",
+          "Volume": 0
+        },
+        {
+          "AudioChannels": 2,
+          "AudioFormat": "Lpcm",
+          "AudioMode": "Manual",
+          "Bitrate": 0,
+          "Buffer": 1000,
+          "CodecReady": false,
+          "ElapsedSeconds": 0,
+          "FramesPerSecond": 0,
+          "HdcpTransmitterMode": "FollowInput",
+          "HorizontalResolution": 0,
+          "InitiatorAddress": "",
+          "IsAutomaticInitiationEnabled": true,
+          "IsPasswordProtectionEnabled": true,
+          "IsStatisticsEnabled": false,
+          "MulticastAddress": "",
+          "NumAudioPacketsDropped": 0,
+          "NumAudioPacketsRcvd": 0,
+          "NumVideoPacketsDropped": 0,
+          "NumVideoPacketsRcvd": 0,
+          "Password": "",
+          "Pause": false,
+          "Processing": false,
+          "ResetStatistics": false,
+          "RtpAudioPort": 40002,
+          "RtpVideoPort": 40000,
+          "RtspPort": 554,
+          "SessionInitiation": "ByReceiver",
+          "Start": false,
+          "Status": "Stream Stopped",
+          "Stop": false,
+          "StreamLocation": "",
+          "StreamProfile": "High",
+          "StreamTrustedCertifyingAuthorities": {
+            "Certificates": [
+              {
+                "Name": "SecureTrust CA",
+                "Trusted": true,
+                "Uid": "0CF08E5C0816A5AD427FF0EB271859D0"
+              }
+            ],
+            "DontTrustCertifyingAuthority": {
+              "Name": "Certificate Name"
+            },
+            "TrustCertifyingAuthority": {
+              "Name": "Certificate Name"
+            }
+          },
+          "StreamType": "Primary",
+          "TcpMode": "Auto",
+          "TransportMode": "RTP",
+          "TsPort": 4570,
+          "Username": "",
+          "VerticalResolution": 0,
+          "VideoFormat": "J2000",
+          "Volume": 0
+        },
+        {
+          "AudioChannels": 2,
+          "AudioFormat": "Lpcm",
+          "AudioMode": "Manual",
+          "Bitrate": 0,
+          "Buffer": 1000,
+          "CodecReady": false,
+          "ElapsedSeconds": 0,
+          "FramesPerSecond": 0,
+          "HdcpTransmitterMode": "FollowInput",
+          "HorizontalResolution": 0,
+          "InitiatorAddress": "",
+          "IsAutomaticInitiationEnabled": true,
+          "IsPasswordProtectionEnabled": true,
+          "IsStatisticsEnabled": false,
+          "MulticastAddress": "",
+          "NumAudioPacketsDropped": 0,
+          "NumAudioPacketsRcvd": 0,
+          "NumVideoPacketsDropped": 0,
+          "NumVideoPacketsRcvd": 0,
+          "Password": "",
+          "Pause": false,
+          "Processing": false,
+          "ResetStatistics": false,
+          "RtpAudioPort": 40002,
+          "RtpVideoPort": 40000,
+          "RtspPort": 554,
+          "SessionInitiation": "ByReceiver",
+          "Start": false,
+          "Status": "Stream Stopped",
+          "Stop": false,
+          "StreamLocation": "",
+          "StreamProfile": "High",
+          "StreamTrustedCertifyingAuthorities": {
+            "Certificates": [
+              {
+                "Name": "SecureTrust CA",
+                "Trusted": true,
+                "Uid": "0CF08E5C0816A5AD427FF0EB271859D0"
+              }
+            ],
+            "DontTrustCertifyingAuthority": {
+              "Name": "Certificate Name"
+            },
+            "TrustCertifyingAuthority": {
+              "Name": "Certificate Name"
+            }
+          },
+          "StreamType": "Primary",
+          "TcpMode": "Auto",
+          "TransportMode": "RTP",
+          "TsPort": 4570,
+          "Username": "",
+          "VerticalResolution": 0,
+          "VideoFormat": "J2000",
+          "Volume": 0
+        }
+      ],
+      "Version": "2.0.1"
+    },
+    "StreamTransmit": {
+      "Streams": [
+        {
+          "AudioChannels": 2,
+          "AudioFormat": "NoAudio",
+          "AudioMode": "Manual",
+          "Bitrate": 750,
+          "Camera": {
+            "CameraFileName": "camera",
+            "CameraHorizontalResolution": 0,
+            "CameraMulticastAddress": "",
+            "CameraResolution": "1280x720",
+            "CameraRtspPort": 8554,
+            "CameraUri": "Test.com",
+            "CameraVerticalResolution": 0,
+            "IsCameraMulticastEnabled": true,
+            "IsCameraStreamEnabled": true
+          },
+          "CodecReady": false,
+          "Dscp": 32,
+          "ElapsedSeconds": 0,
+          "EncodingResolution": "Auto",
+          "FecMode": "Off",
+          "FramesPerSecond": 0,
+          "HdcpTransmitterMode": "Always",
+          "HorizontalResolution": 0,
+          "IsAdaptiveBitrateMode": false,
+          "IsAutomaticInitiationEnabled": true,
+          "IsPasswordProtectionEnabled": true,
+          "IsStatisticsEnabled": false,
+          "MultiCastTtl": 5,
+          "MulticastAddress": "",
+          "NumAudioPacketsRcvd": 0,
+          "NumAudioPacketsTransmitted": 0,
+          "NumVideoPacketsDropped": 0,
+          "NumVideoPacketsRcvd": 0,
+          "NumVideoPacketsTransmitted": 0,
+          "Password": "",
+          "Pause": false,
+          "Processing": false,
+          "ResetStatistics": false,
+          "RtpAudioPort": 49172,
+          "RtpVideoPort": 49170,
+          "RtspPort": 554,
+          "RtspSessionName": "DM-NVX-D30-00107FC69298",
+          "RtspStreamFileName": "",
+          "SessionInitiation": "Multicast via RTSP",
+          "SnapshotFileName": "",
+          "SnapshotUri": "",
+          "Start": false,
+          "Status": "Stream Stopped",
+          "Stop": false,
+          "StreamLocation": "",
+          "StreamProfile": "High",
+          "StreamType": "Primary",
+          "TransportMode": "MPEG2TSRTP",
+          "TsPort": 4570,
+          "UUID": "00000000-0000-4002-0054-03003087030b",
+          "Username": "",
+          "VerticalResolution": 0,
+          "VideoFormat": "J2000"
+        },
+        {
+          "AudioChannels": 2,
+          "AudioFormat": "NoAudio",
+          "AudioMode": "Manual",
+          "Bitrate": 750,
+          "Camera": {
+            "CameraFileName": "camera",
+            "CameraHorizontalResolution": 0,
+            "CameraMulticastAddress": "",
+            "CameraResolution": "1280x720",
+            "CameraRtspPort": 8554,
+            "CameraUri": "Test.com",
+            "CameraVerticalResolution": 0,
+            "IsCameraMulticastEnabled": true,
+            "IsCameraStreamEnabled": true
+          },
+          "CodecReady": false,
+          "Dscp": 32,
+          "ElapsedSeconds": 0,
+          "EncodingResolution": "Auto",
+          "FecMode": "Off",
+          "FramesPerSecond": 0,
+          "HdcpTransmitterMode": "Always",
+          "HorizontalResolution": 0,
+          "IsAdaptiveBitrateMode": false,
+          "IsAutomaticInitiationEnabled": true,
+          "IsPasswordProtectionEnabled": true,
+          "IsStatisticsEnabled": false,
+          "MultiCastTtl": 5,
+          "MulticastAddress": "",
+          "NumAudioPacketsRcvd": 0,
+          "NumAudioPacketsTransmitted": 0,
+          "NumVideoPacketsDropped": 0,
+          "NumVideoPacketsRcvd": 0,
+          "NumVideoPacketsTransmitted": 0,
+          "Password": "",
+          "Pause": false,
+          "Processing": false,
+          "ResetStatistics": false,
+          "RtpAudioPort": 49172,
+          "RtpVideoPort": 49170,
+          "RtspPort": 554,
+          "RtspSessionName": "Crestron Streaming",
+          "RtspStreamFileName": "",
+          "SessionInitiation": "Multicast via RTSP",
+          "SnapshotFileName": "",
+          "SnapshotUri": "",
+          "Start": false,
+          "Status": "Stream Stopped",
+          "Stop": false,
+          "StreamLocation": "",
+          "StreamProfile": "High",
+          "StreamType": "Primary",
+          "TransportMode": "MPEG2TSRTP",
+          "TsPort": 4570,
+          "UUID": "00000000-0000-4003-0054-03003087030b",
+          "Username": "",
+          "VerticalResolution": 0,
+          "VideoFormat": "J2000"
+        },
+        {
+          "AudioChannels": 2,
+          "AudioFormat": "NoAudio",
+          "AudioMode": "Manual",
+          "Bitrate": 10000,
+          "Camera": {
+            "CameraFileName": "camera",
+            "CameraHorizontalResolution": 0,
+            "CameraMulticastAddress": "",
+            "CameraResolution": "1280x720",
+            "CameraRtspPort": 8554,
+            "CameraUri": "Test.com",
+            "CameraVerticalResolution": 0,
+            "IsCameraMulticastEnabled": true,
+            "IsCameraStreamEnabled": true
+          },
+          "CodecReady": false,
+          "Dscp": 32,
+          "ElapsedSeconds": 0,
+          "EncodingResolution": "Auto",
+          "FramesPerSecond": 0,
+          "HdcpTransmitterMode": "FollowInput",
+          "HorizontalResolution": 0,
+          "IsAutomaticInitiationEnabled": true,
+          "IsPasswordProtectionEnabled": true,
+          "IsStatisticsEnabled": false,
+          "MultiCastTtl": 0,
+          "MulticastAddress": "",
+          "NumAudioPacketsRcvd": 0,
+          "NumAudioPacketsTransmitted": 0,
+          "NumVideoPacketsDropped": 0,
+          "NumVideoPacketsRcvd": 0,
+          "NumVideoPacketsTransmitted": 0,
+          "Password": "",
+          "Pause": false,
+          "Processing": false,
+          "ResetStatistics": false,
+          "RtpAudioPort": 40002,
+          "RtpVideoPort": 40000,
+          "RtspPort": 554,
+          "RtspSessionName": "Crestron Streaming",
+          "RtspStreamFileName": "",
+          "SessionInitiation": "ByReceiver",
+          "SnapshotFileName": "",
+          "SnapshotUri": "",
+          "Start": false,
+          "Status": "Stream Stopped",
+          "Stop": false,
+          "StreamLocation": "",
+          "StreamProfile": "High",
+          "StreamType": "Primary",
+          "TransportMode": "RTP",
+          "TsPort": 4570,
+          "Username": "",
+          "VerticalResolution": 0,
+          "VideoFormat": "J2000"
+        },
+        {
+          "AudioChannels": 2,
+          "AudioFormat": "NoAudio",
+          "AudioMode": "Manual",
+          "Bitrate": 10000,
+          "Camera": {
+            "CameraFileName": "camera",
+            "CameraHorizontalResolution": 0,
+            "CameraMulticastAddress": "",
+            "CameraResolution": "1280x720",
+            "CameraRtspPort": 8554,
+            "CameraUri": "Test.com",
+            "CameraVerticalResolution": 0,
+            "IsCameraMulticastEnabled": true,
+            "IsCameraStreamEnabled": true
+          },
+          "CodecReady": false,
+          "Dscp": 32,
+          "ElapsedSeconds": 0,
+          "EncodingResolution": "Auto",
+          "FramesPerSecond": 0,
+          "HdcpTransmitterMode": "FollowInput",
+          "HorizontalResolution": 0,
+          "IsAutomaticInitiationEnabled": true,
+          "IsPasswordProtectionEnabled": true,
+          "IsStatisticsEnabled": false,
+          "MultiCastTtl": 0,
+          "MulticastAddress": "",
+          "NumAudioPacketsRcvd": 0,
+          "NumAudioPacketsTransmitted": 0,
+          "NumVideoPacketsDropped": 0,
+          "NumVideoPacketsRcvd": 0,
+          "NumVideoPacketsTransmitted": 0,
+          "Password": "",
+          "Pause": false,
+          "Processing": false,
+          "ResetStatistics": false,
+          "RtpAudioPort": 40002,
+          "RtpVideoPort": 40000,
+          "RtspPort": 554,
+          "RtspSessionName": "Crestron Streaming",
+          "RtspStreamFileName": "",
+          "SessionInitiation": "ByReceiver",
+          "SnapshotFileName": "",
+          "SnapshotUri": "",
+          "Start": false,
+          "Status": "Stream Stopped",
+          "Stop": false,
+          "StreamLocation": "",
+          "StreamProfile": "High",
+          "StreamType": "Primary",
+          "TransportMode": "RTP",
+          "TsPort": 4570,
+          "Username": "",
+          "VerticalResolution": 0,
+          "VideoFormat": "J2000"
+        }
+      ],
+      "Version": "2.0.1"
+    },
+    "SystemClock": {
+      "CurrentTime": "2021-07-09T11:21:41Z",
+      "DaylightSavingsEnabled": false,
+      "Ntp": {
+        "IsEnabled": true,
+        "Servers": {
+          "Server1": {
+            "Address": "time1.rmit.edu.au",
+            "AuthKey": "",
+            "AuthKeyId": 0,
+            "AuthMethod": "NONE",
+            "Port": 123
+          }
+        },
+        "ServersCurrentKeyList": [
+          "Server1"
+        ]
+      },
+      "TimeZone": "088",
+      "Version": "2.1.1"
+    },
+    "SystemVersions": {
+      "Components": [
+        {
+          "Category": "DM-NVX-D30",
+          "Name": "DM-NVX-D30",
+          "SubComponents": [],
+          "Version": "5.1.4651.00031"
+        },
+        {
+          "Category": "Build",
+          "Name": "Build",
+          "SubComponents": [],
+          "Version": "Jan 14 2021  (388783)"
+        },
+        {
+          "Category": "Updater",
+          "Name": "Updater",
+          "SubComponents": [],
+          "Version": "5.1.4651.00031"
+        },
+        {
+          "Category": "Bootloader",
+          "Name": "Bootloader",
+          "SubComponents": [],
+          "Version": "2.01.064"
+        },
+        {
+          "Category": "CCUI Version",
+          "Name": "CCUI Version",
+          "SubComponents": [],
+          "Version": "2.114.848071"
+        },
+        {
+          "Category": "Build time",
+          "Name": "Build time",
+          "SubComponents": [],
+          "Version": "18:31:58"
+        },
+        {
+          "Category": "Product ID",
+          "Name": "Product ID",
+          "SubComponents": [],
+          "Version": "0x7F09"
+        },
+        {
+          "Category": "Revision ID",
+          "Name": "Revision ID",
+          "SubComponents": [],
+          "Version": "0x0000"
+        },
+        {
+          "Category": "HDCP2X-SKE",
+          "Name": "HDCP2X-SKE",
+          "SubComponents": [
+            {
+              "Category": "PRE-BOOT",
+              "Name": "PRE-BOOT",
+              "SubComponents": [],
+              "Version": "[v001.0000.022]"
+            },
+            {
+              "Category": "BOOTLOADER",
+              "Name": "BOOTLOADER",
+              "SubComponents": [],
+              "Version": "[v001.0000.382]"
+            }
+          ],
+          "Version": "HDCP2X-SKE [v1.3803.14434, #3B2D3DC0CA]"
+        },
+        {
+          "Category": "NIOS",
+          "Name": "NIOS",
+          "SubComponents": [
+            {
+              "Category": "BUILD_TIME",
+              "Name": "BUILD_TIME",
+              "SubComponents": [],
+              "Version": "Jan  9 2021 14:13:27"
+            },
+            {
+              "Category": "PRODUCT_NAME",
+              "Name": "PRODUCT_NAME",
+              "SubComponents": [],
+              "Version": "NVX_D30"
+            },
+            {
+              "Category": "MODE",
+              "Name": "MODE",
+              "SubComponents": [],
+              "Version": "RX"
+            },
+            {
+              "Category": "VAR",
+              "Name": "VAR",
+              "SubComponents": [],
+              "Version": "3"
+            },
+            {
+              "Category": "DSP",
+              "Name": "DSP",
+              "SubComponents": [],
+              "Version": "NONE"
+            },
+            {
+              "Category": "HWREV",
+              "Name": "HWREV",
+              "SubComponents": [],
+              "Version": "0"
+            }
+          ],
+          "Version": "NVX-D30 [v1.4658.00021, #00000000] Stream:a5.0"
+        },
+        {
+          "Category": "FPGA",
+          "Name": "FPGA",
+          "SubComponents": [
+            {
+              "Category": "HPS2NIOS_REG",
+              "Name": "HPS2NIOS_REG",
+              "SubComponents": [],
+              "Version": "0x801f1502"
+            },
+            {
+              "Category": "BUILD_DATE",
+              "Name": "BUILD_DATE",
+              "SubComponents": [],
+              "Version": "1142021"
+            },
+            {
+              "Category": "BUILD_TIME",
+              "Name": "BUILD_TIME",
+              "SubComponents": [],
+              "Version": "24416"
+            },
+            {
+              "Category": "BUILD_NUMBER",
+              "Name": "BUILD_NUMBER",
+              "SubComponents": [],
+              "Version": "2140304"
+            },
+            {
+              "Category": "IPXE",
+              "Name": "IPXE",
+              "SubComponents": [],
+              "Version": "VERSION major:0 internal:0 date:0"
+            },
+            {
+              "Category": "IPXD",
+              "Name": "IPXD",
+              "SubComponents": [],
+              "Version": "VERSION major:6 internal:91 date:201105"
+            }
+          ],
+          "Version": "VERSION major:1 minor:33"
+        },
+        {
+          "Category": "UUID",
+          "Name": "UUID",
+          "SubComponents": [],
+          "Version": "00000000-0000-4002-0054-03003087030b"
+        },
+        {
+          "Category": "PUF",
+          "Name": "PUF",
+          "SubComponents": [],
+          "Version": "5.1.4651.00031"
+        },
+        {
+          "Category": "Video Player",
+          "Name": "Video Player",
+          "SubComponents": [],
+          "Version": "5.0"
+        },
+        {
+          "Category": "Forced Auth Mode",
+          "Name": "Forced Auth Mode",
+          "SubComponents": [],
+          "Version": "False"
+        }
+      ],
+      "Version": "2.0.0"
+    },
+    "Usb": {
+      "UsbPorts": [
+        {
+          "HostEnumerated": false,
+          "IsActive": false,
+          "IsAutoUsbPairingEnabled": false,
+          "IsDeviceSuspended": false,
+          "Mode": "Local",
+          "Name": "Podium USB",
+          "Transport": "Layer2",
+          "UsbPairing": {
+            "IsMultipleDeviceSupportEnabled": false,
+            "Layer2": {
+              "LocalDeviceId": "",
+              "RemoteDevices": {
+                "Id1": "",
+                "Id2": "",
+                "Id3": "",
+                "Id4": "",
+                "Id5": "",
+                "Id6": "",
+                "Id7": ""
+              }
+            },
+            "Layer3": {
+              "LocalDeviceId": "",
+              "RemoteDevices": {
+                "Id1": ""
+              }
+            },
+            "PairedStatus": {
+              "Id1": false,
+              "Id2": false,
+              "Id3": false,
+              "Id4": false,
+              "Id5": false,
+              "Id6": false,
+              "Id7": false
+            }
+          },
+          "Uuid": "3fca0a9c-ff0a-4f68-b1f3-503e5572eba3"
+        }
+      ],
+      "Version": "2.1.3"
+    },
+    "UserInterfaceConfig": {
+      "DeviceSupport": {
+        "DeviceMode": "Receiver",
+        "TimeZones": {
+          "000": "(UTC-12:00) International Date Line West",
+          "001": "(UTC+13:00) Samoa",
+          "002": "(UTC-11:00) Coordinated Universal Time -11",
+          "003": "(UTC-10:00) Hawaii",
+          "004": "(UTC-09:00) Alaska",
+          "005": "(UTC-08:00) Pacific Time (US & Canada)",
+          "006": "(UTC-08:00) Baja California",
+          "007": "(UTC-07:00) Mountain Time (US & Canada)",
+          "008": "(UTC-07:00) Arizona",
+          "009": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+          "010": "(UTC-06:00) Central Time (US & Canada)",
+          "011": "(UTC-06:00) Saskatchewan",
+          "012": "(UTC-06:00) Central America",
+          "013": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+          "014": "(UTC-05:00) Eastern Time (US & Canada)",
+          "015": "(UTC-05:00) Indiana (East)",
+          "016": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+          "017": "(UTC-04:00) Caracas",
+          "018": "(UTC-04:00) Atlantic Time (Canada)",
+          "019": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+          "020": "(UTC-04:00) Santiago",
+          "021": "(UTC-04:00) Cuiaba",
+          "022": "(UTC-04:00) Asuncion",
+          "023": "(UTC-03:30) Newfoundland",
+          "024": "(UTC-03:00) Brasilia",
+          "025": "(UTC-03:00) Cayenne, Fortaleza",
+          "026": "(UTC-03:00) Greenland",
+          "027": "(UTC-03:00) Buenos Aires",
+          "028": "(UTC-03:00) Montevideo",
+          "029": "(UTC-02:00) Mid-Atlantic",
+          "031": "(UTC-01:00) Azores",
+          "032": "(UTC-02:00) Coordinated Universal Time -02",
+          "033": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+          "034": "(UTC+00:00) Monrovia, Reykjavik",
+          "035": "(UTC+01:00) Casablanca",
+          "036": "(UTC) Coordinated Universal Time",
+          "037": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+          "038": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+          "039": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+          "040": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+          "041": "(UTC+01:00) West Central Africa",
+          "042": "(UTC+02:00) Windhoek",
+          "043": "(UTC+02:00) Chisinau",
+          "044": "(UTC+02:00) Cairo",
+          "045": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+          "046": "(UTC+02:00) Athens, Bucharest",
+          "047": "(UTC+02:00) Harare, Pretoria",
+          "048": "(UTC+02:00) Jerusalem",
+          "049": "(UTC+02:00) Amman",
+          "050": "(UTC+02:00) Beirut",
+          "051": "(UTC+02:00) Damascus",
+          "052": "(UTC+03:00) Istanbul",
+          "054": "(UTC+03:00) Kuwait, Riyadh",
+          "055": "(UTC+03:00) Nairobi",
+          "056": "(UTC+03:00) Baghdad",
+          "058": "(UTC+03:30) Tehran",
+          "059": "(UTC+04:00) Tbilisi",
+          "060": "(UTC+04:00) Abu Dhabi, Muscat",
+          "061": "(UTC+04:00) Yerevan",
+          "062": "(UTC+04:00) Baku",
+          "063": "(UTC+04:00) Port Louis",
+          "064": "(UTC+04:30) Kabul",
+          "066": "(UTC+05:00) Ashgabat, Tashkent",
+          "067": "(UTC+05:00) Islamabad, Karachi",
+          "068": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+          "069": "(UTC+05:30) Sri Jayawardenepura",
+          "070": "(UTC+05:45) Kathmandu",
+          "071": "(UTC+06:00) Astana",
+          "073": "(UTC+06:00) Dhaka",
+          "074": "(UTC+06:30) Yangon (Rangoon)",
+          "075": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+          "077": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+          "078": "(UTC+08:00) Taipei",
+          "079": "(UTC+08:00) Perth",
+          "081": "(UTC+08:00) Kuala Lumpur, Singapore",
+          "082": "(UTC+08:00) Ulaanbaatar",
+          "083": "(UTC+09:00) Seoul",
+          "084": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+          "086": "(UTC+09:30) Darwin",
+          "087": "(UTC+09:30) Adelaide",
+          "088": "(UTC+10:00) Canberra, Melbourne, Sydney",
+          "089": "(UTC+10:00) Brisbane",
+          "090": "(UTC+10:00) Hobart",
+          "092": "(UTC+10:00) Guam, Port Moresby",
+          "093": "(UTC+11:00) Solomon Is., New Caledonia",
+          "094": "(UTC+11:00) Magadan",
+          "095": "(UTC+12:00) Fiji",
+          "096": "(UTC+12:00) Auckland, Wellington",
+          "097": "(UTC+12:00) Coordinated Universal Time +12",
+          "098": "(UTC+13:00) Nuku'alofa",
+          "099": "(UTC-08:00) Pitcairn Islands",
+          "100": "(UTC-09:30) Marquesas Islands",
+          "101": "(UTC-09:00) Gambier",
+          "102": "(UTC-06:00) Easter Island",
+          "105": "(UTC+08:00) Singapore",
+          "111": "(UTC-03:00) Salvador",
+          "112": "(UTC-10:00) Tahiti",
+          "113": "(UTC+02:00) Tripoli",
+          "114": "(UTC+03:00) Minsk",
+          "115": "(UTC+09:00) Yakutsk",
+          "116": "(UTC+10:00) Vladivostok",
+          "117": "(UTC+03:00) Moscow, St. Petersburg, Volgograd",
+          "118": "(UTC+07:00) Krasnoyarsk",
+          "119": "(UTC+08:00) Irkutsk",
+          "121": "(UTC+02:00) Kaliningrad",
+          "122": "(UTC+05:00) Ekaterinburg",
+          "123": "(UTC+14:00) Kiritimati Island",
+          "125": "(UTC+11:00) Chokurdakh",
+          "126": "(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky",
+          "127": "(UTC-05:00) Chetumal",
+          "128": "(UTC-01:00) Cabo Verde Is.",
+          "129": "(UTC+06:00) Omsk",
+          "130": "(UTC+04:00) Astrakhan, Ulyanovsk",
+          "131": "(UTC+09:00) Chita",
+          "132": "(UTC+04:00) Izhevsk, Samara",
+          "133": "(UTC+02:00) Gaza, Hebron",
+          "134": "(UTC+07:00) Hovd",
+          "135": "(UTC+07:00) Tomsk",
+          "136": "(UTC-03:00) Araguaina",
+          "137": "(UTC+11:00) Sakhalin",
+          "138": "(UTC-03:00) Saint Pierre and Miquelon",
+          "139": "(UTC+11:00) Norfolk Island",
+          "140": "(UTC+07:00) Novosibirsk",
+          "141": "(UTC+10:30) Lord Howe Island",
+          "142": "(UTC-05:00) Haiti",
+          "143": "(UTC-05:00) Havana",
+          "144": "(UTC+12:45) Chatham Islands",
+          "145": "(UTC+11:00) Bougainville Island",
+          "146": "(UTC+07:00) Barnaul, Gorno-Altaysk",
+          "147": "(UTC-10:00) Aleutian Islands",
+          "148": "(UTC+08:45) Eucla",
+          "149": "(UTC+09:00) Pyongyang",
+          "150": "(UTC-08:00) Coordinated Universal Time-08",
+          "151": "(UTC-09:00) Coordinated Universal Time-09",
+          "152": "(UTC-05:00) Turks and Caicos",
+          "153": "(UTC+02:00) Khartoum",
+          "154": "(UTC+04:00) Saratov",
+          "155": "(UTC+00:00) Sao Tome",
+          "156": "(UTC-03:00) Punta Arenas",
+          "157": "(UTC+13:00) Coordinated Universal Time+13"
+        }
+      },
+      "Version": "2.0.0"
+    },
+    "Version": "2.0.0",
+    "XioConfig": {
+      "Uuid": "fc31161c-c705-489a-87e7-9132b556b3eb",
+      "Version": "2.0.0"
+    },
+    "XioSubscription": {
+      "Subscriptions": {
+        "00000000-0000-4002-0054-028c10f3fa0f": {
+          "Address": "https://10.198.79.242/onvif/services",
+          "AudioChannels": 0,
+          "AudioFormat": "No Audio",
+          "Bitrate": 360,
+          "Encryption": true,
+          "Fps": 0,
+          "IsSyncDetected": false,
+          "MulticastAddress": "239.255.16.6",
+          "NaxAudioMulticastAddress": "239.255.144.6",
+          "NaxAudioPort": 50003,
+          "Position": 1,
+          "Resolution": "0x0",
+          "RtspUri": "rtsp://10.198.79.242:554/live.sdp",
+          "SessionName": "DM-NVX-E30-00107FC3CFC4",
+          "SnapshotUrl": "",
+          "Status": "SUBSCRIBED",
+          "Transport": "TS/RTP",
+          "UniqueId": "00000000-0000-4002-0054-028c10f3fa0f",
+          "VideoFormat": "Pixel"
+        }
+      },
+      "Version": "2.0.0"
+    }
+  }
+}
